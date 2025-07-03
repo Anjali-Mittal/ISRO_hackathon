@@ -1,0 +1,503 @@
+name,launch_date,launch_vehicle,orbit_type,application,details_url,pdf_brochure_url,description,launch_vehicle_raw
+EOS-09,2025-05-18,PSLV-C61,unknown,unknown,unknown,unknown,unknown,PSLV-C61/EOS-09 Mission
+NVS-02,2025-01-29,GSLV-F15,GTO (Geosynchronous Transfer Orbit),Navigation,https://www.isro.gov.in/GSLV-F15_NVS-02_Mission.html,https://www.isro.gov.in/media_isro/pdf/GSLVF15/GSLV-F15_NVS-02_EngBrochure240125.pdf,"January 24, 2025
+GSLV-F15 is the 17thflight of India’s Geosynchronous Satellite Launch Vehicle (GSLV)
+                        and 11thflight with Indigenous Cryo stage.It is the 8thoperational
+                        flight of GSLV with an indigenous Cryogenic stage and 100thLaunch from the India’s
+                        Spaceport Sriharikota.GSLV-F15 payload fairing is a metallic version with a diameter of 3.4
+                        meters.
+ISRO is preparing for its landmark 100thlaunch from Sriharikota. GSLV F15 will lift-off from
+                        the second launch pad at 06:23 hrs on January 29, 2025, carrying the NVS-02 navigation satellite.
+                        This will be the 100thlaunch to lift-off from Sriharikota. Over a span of 99 launches, various
+                        missions have been carried out from Sriharikota.Click here for the details of the 99 missionsPDF - 204 KB
+The GSLV-F15 with indigenous Cryogenic stage will place NVS-02 satellite
+                        into a Geosynchronous Transfer Orbit & the launch will take place from the Second Launch Pad
+                        (SLP) at Satish Dhawan Space Centre, SHAR.
+Navigation with Indian Constellation (NavIC) is India's independent regional
+                    navigation satellite system designed to provide accurate Position, Velocity and Timing (PVT) service
+                    to users in India as well as to region extending about 1500 km beyond Indian land mass.
+NavIC will provide two types of services, namely, Standard Positioning Service
+                    (SPS) and Restricted Service (RS). NavIC's SPS provides a position accuracy of better than 20 m (2σ)
+                    and timing accuracy better than 40 ns (2σ) over the service area.
+ISRO successfully completed a century in the launches from its spaceport at Sriharikota on January 29, 2025 with the 17thlaunch of GSLV. In this mission NVS-02 navigation satellite was successfully injected into the intended Geosynchronous Transfer Orbit. All the launch vehicle stages performed flawlessly and the orbit was achieved with a high degree of precision.
+Subsequent to the launch, the solar panels on board the satellite were successfully deployed and power generation is nominal. Communication with the ground station has been established. But the orbit raising operations towards positioning the satellite to the designated orbital slot could not be carried out as the valves for admitting the oxidizer to fire the thrusters for orbit raising did not open.
+The satellite systems are healthy and the satellite is currently in elliptical orbit. Alternate mission strategies for utilising the satellite for navigation in an elliptical orbit is being worked out.",GSLV-F15/NVS-02 MISSION
+SPADEX-A,2024-12-30,PSLV C60,SSO,Navigation,https://www.isro.gov.in/mission_SpaDeX.html,https://www.isro.gov.in/media_isro/pdf/Missions/PSLVC60/PSLVC60-mission-brochure-english.pdf,"December 21, 2024
+SpaDeX mission is a cost-effective technology demonstrator mission for the demonstration of in-space
+                    docking using two small spacecraft launched by PSLV. This technology is essential for India's space
+                    ambitions such as Indian on Moon, sample return from the Moon, the building and operation of
+                    Bharatiya Antariksh Station (BAS), etc. In-space docking technology is essential when multiple
+                    rocket launches are required to achieve common mission objectives. Through this mission, India is
+                    marching towards becoming the fourth country in the world to have space docking technology.
+The primary objective of the SpaDeX mission is to develop and demonstrate the technology needed for
+                    rendezvous, docking, and undocking of two small spacecraft (SDX01, which is the Chaser, and SDX02,
+                    the Target, nominally) in a low-Earth circular orbit. Secondary objectives include:
+The SpaDeX mission consists of two small spacecraft (about 220 kg each) to be launched by PSLV-C60,
+                    independently and simultaneously, into a 470 km circular orbit at 55° inclination, with a local time
+                    cycle of about 66 days. The demonstrated precision of the PSLV vehicle will be utilized to give a
+                    small relative velocity between the Target and Chaser spacecraft at the time of separation from the
+                    launch vehicle. This incremental velocity will allow the Target spacecraft to build a 10-20 km
+                    inter-satellite separation with respect to the Chaser within a day. At this point, the relative
+                    velocity between the Target will be compensated using the propulsion system of the Target
+                    spacecraft.
+At the end of this drift arrest maneuver, the Target and Chaser will be in the same orbit with
+                    identical velocity but separated by about 20 km, known as Far Rendezvous. With a similar strategy of
+                    introducing and then compensating for a small relative velocity between the two spacecraft, the
+                    Chaser will approach the Target with progressively reduced inter-satellite distances of 5 km, 1.5
+                    km, 500 m, 225 m, 15 m, and 3 m, ultimately leading to the docking of the two spacecraft. After
+                    successful docking and rigidization, electrical power transfer between the two satellites will be
+                    demonstrated before undocking and separation of the two satellites to start the operation of their
+                    respective payloads for the expected mission life of up to two years.
+The indigenous technologies developed for enabling this docking mission are as follows:
+In addition, SpaDeX, because of its small size and mass, is even more challenging due to the finer
+                    precision required for the rendezvous and docking maneuvers compared to docking two large
+                    spacecraft. This mission will be a forerunner for autonomous docking needed for future lunar
+                    missions like Chandrayaan-4 without the support of GNSS from Earth.
+The docking mechanism is a low-impact docking system (approach velocity is in the order of 10 mm/s),
+                    androgynous (docking systems are identical for both spacecraft, Chaser & Target), and is a
+                    peripheral docking system (concept similar to the International Docking System Standard used by
+                    other agencies for human missions). The mechanism is smaller (450 mm) with one degree of freedom for
+                    extension and uses two motors compared to the IDSS (800 mm) on a hexapod with 24 motors. Multiple
+                    test beds were established to test the hardware and software simulation of the docking kinematics to
+                    verify and finalise the docking approach parameters.
+The additional sensor suite in this mission includes Laser Range Finder (LRF) and Corner Cube Retro
+                    Reflectors to work for a range of 6000 to 200 m for determining range (R). The set of Rendezvous
+                    Sensors (RS) is used in the range of 2000 to 250 m and from 250-10 m. RS provides the relative
+                    position (x, y, z) while LRF determines both relative position and velocity independently.
+Proximity and Docking Sensor (PDS) provides relative position and velocity over a range of 30 m to
+                    0.4 m. Laser Diodes (LDs) are used as targets for RS & PDS. A video monitor is used in the 20 to 0.5
+                    m range and it will capture the video of the docking event. A Mechanism Entry Sensor (MES) is used
+                    from 8 cm to 4 cm to detect chaser entry into the target spacecraft during docking. Multiple test
+                    beds were used to calibrate and validate these sensors before accepting them for the mission.
+Like all ISRO satellites in low-Earth orbit, both the SpaDeX spacecraft carry a differential
+                    GNSS-based Satellite Positioning System (SPS), which provides PNT (Position, Navigation, and Timing)
+                    solutions for the satellites. In SpaDeX, a novel RODP processor is included in the SPS receiver,
+                    which allows accurate determination of the relative position and velocity of the Chaser and the
+                    Target. By subtracting the carrier phase measurements from the same GNSS satellites in both Chaser
+                    and Target SPS receivers, highly accurate relative states of the two satellites are determined. The
+                    VHF/UHF transceivers in both satellites aid this process by transferring the GNSS satellite
+                    measurements from one satellite to the other. Hardware and software test beds, including closed-loop
+                    verifications, were carried out to characterise the RODP performance.
+Up to an inter-satellite distance (ISD) of 5 km, standard orbit maintenance and attitude control
+                    algorithms employed in ISRO LEO spacecraft are used. As the spacecraft are in circular orbit, and
+                    any addition or reduction of velocity to the satellites will result in orbit change, the V-bar
+                    strategy using n-Pulse, Glideslope and PV guidance algorithms are employed to reduce the ISD between
+                    the satellites, hold at fixed ISDs to evaluate the sensors and software, and finally docking. These
+                    algorithms were converted into software for achieving the rendezvous and docking. These software
+                    solutions were tested and validated in multiple digital, hardware-in-loop, onboard-in-loop,
+                    software-in-loop, and robotic simulations.
+After the docking and undocking events, the spacecrafts will be separated and used for application
+                    missions.
+The SpaDeX spacecraft were designed and realized by the UR Rao Satellite Centre (URSC) with the
+                    support of other ISRO centers (VSSC, LPSC, SAC, IISU, and LEOS). The spacecraft, in its orbital
+                    phase, will be controlled from ISTRAC using ISRO ground stations and other externally hired ground
+                    stations. The full integration and testing of the satellite were carried out at M/s Ananth
+                    Technologies, Bangalore, under the supervision of URSC. Presently, after completing all tests and
+                    clearances, the spacecraft has moved from URSC to SDSC and is undergoing preparations for launch.",PSLV C60/SPADEX Mission
+SPADEX-B,2024-12-30,PSLV C60,SSO,Navigation,https://www.isro.gov.in/mission_SpaDeX.html,https://www.isro.gov.in/media_isro/pdf/Missions/PSLVC60/PSLVC60-mission-brochure-english.pdf,"December 21, 2024
+SpaDeX mission is a cost-effective technology demonstrator mission for the demonstration of in-space
+                    docking using two small spacecraft launched by PSLV. This technology is essential for India's space
+                    ambitions such as Indian on Moon, sample return from the Moon, the building and operation of
+                    Bharatiya Antariksh Station (BAS), etc. In-space docking technology is essential when multiple
+                    rocket launches are required to achieve common mission objectives. Through this mission, India is
+                    marching towards becoming the fourth country in the world to have space docking technology.
+The primary objective of the SpaDeX mission is to develop and demonstrate the technology needed for
+                    rendezvous, docking, and undocking of two small spacecraft (SDX01, which is the Chaser, and SDX02,
+                    the Target, nominally) in a low-Earth circular orbit. Secondary objectives include:
+The SpaDeX mission consists of two small spacecraft (about 220 kg each) to be launched by PSLV-C60,
+                    independently and simultaneously, into a 470 km circular orbit at 55° inclination, with a local time
+                    cycle of about 66 days. The demonstrated precision of the PSLV vehicle will be utilized to give a
+                    small relative velocity between the Target and Chaser spacecraft at the time of separation from the
+                    launch vehicle. This incremental velocity will allow the Target spacecraft to build a 10-20 km
+                    inter-satellite separation with respect to the Chaser within a day. At this point, the relative
+                    velocity between the Target will be compensated using the propulsion system of the Target
+                    spacecraft.
+At the end of this drift arrest maneuver, the Target and Chaser will be in the same orbit with
+                    identical velocity but separated by about 20 km, known as Far Rendezvous. With a similar strategy of
+                    introducing and then compensating for a small relative velocity between the two spacecraft, the
+                    Chaser will approach the Target with progressively reduced inter-satellite distances of 5 km, 1.5
+                    km, 500 m, 225 m, 15 m, and 3 m, ultimately leading to the docking of the two spacecraft. After
+                    successful docking and rigidization, electrical power transfer between the two satellites will be
+                    demonstrated before undocking and separation of the two satellites to start the operation of their
+                    respective payloads for the expected mission life of up to two years.
+The indigenous technologies developed for enabling this docking mission are as follows:
+In addition, SpaDeX, because of its small size and mass, is even more challenging due to the finer
+                    precision required for the rendezvous and docking maneuvers compared to docking two large
+                    spacecraft. This mission will be a forerunner for autonomous docking needed for future lunar
+                    missions like Chandrayaan-4 without the support of GNSS from Earth.
+The docking mechanism is a low-impact docking system (approach velocity is in the order of 10 mm/s),
+                    androgynous (docking systems are identical for both spacecraft, Chaser & Target), and is a
+                    peripheral docking system (concept similar to the International Docking System Standard used by
+                    other agencies for human missions). The mechanism is smaller (450 mm) with one degree of freedom for
+                    extension and uses two motors compared to the IDSS (800 mm) on a hexapod with 24 motors. Multiple
+                    test beds were established to test the hardware and software simulation of the docking kinematics to
+                    verify and finalise the docking approach parameters.
+The additional sensor suite in this mission includes Laser Range Finder (LRF) and Corner Cube Retro
+                    Reflectors to work for a range of 6000 to 200 m for determining range (R). The set of Rendezvous
+                    Sensors (RS) is used in the range of 2000 to 250 m and from 250-10 m. RS provides the relative
+                    position (x, y, z) while LRF determines both relative position and velocity independently.
+Proximity and Docking Sensor (PDS) provides relative position and velocity over a range of 30 m to
+                    0.4 m. Laser Diodes (LDs) are used as targets for RS & PDS. A video monitor is used in the 20 to 0.5
+                    m range and it will capture the video of the docking event. A Mechanism Entry Sensor (MES) is used
+                    from 8 cm to 4 cm to detect chaser entry into the target spacecraft during docking. Multiple test
+                    beds were used to calibrate and validate these sensors before accepting them for the mission.
+Like all ISRO satellites in low-Earth orbit, both the SpaDeX spacecraft carry a differential
+                    GNSS-based Satellite Positioning System (SPS), which provides PNT (Position, Navigation, and Timing)
+                    solutions for the satellites. In SpaDeX, a novel RODP processor is included in the SPS receiver,
+                    which allows accurate determination of the relative position and velocity of the Chaser and the
+                    Target. By subtracting the carrier phase measurements from the same GNSS satellites in both Chaser
+                    and Target SPS receivers, highly accurate relative states of the two satellites are determined. The
+                    VHF/UHF transceivers in both satellites aid this process by transferring the GNSS satellite
+                    measurements from one satellite to the other. Hardware and software test beds, including closed-loop
+                    verifications, were carried out to characterise the RODP performance.
+Up to an inter-satellite distance (ISD) of 5 km, standard orbit maintenance and attitude control
+                    algorithms employed in ISRO LEO spacecraft are used. As the spacecraft are in circular orbit, and
+                    any addition or reduction of velocity to the satellites will result in orbit change, the V-bar
+                    strategy using n-Pulse, Glideslope and PV guidance algorithms are employed to reduce the ISD between
+                    the satellites, hold at fixed ISDs to evaluate the sensors and software, and finally docking. These
+                    algorithms were converted into software for achieving the rendezvous and docking. These software
+                    solutions were tested and validated in multiple digital, hardware-in-loop, onboard-in-loop,
+                    software-in-loop, and robotic simulations.
+After the docking and undocking events, the spacecrafts will be separated and used for application
+                    missions.
+The SpaDeX spacecraft were designed and realized by the UR Rao Satellite Centre (URSC) with the
+                    support of other ISRO centers (VSSC, LPSC, SAC, IISU, and LEOS). The spacecraft, in its orbital
+                    phase, will be controlled from ISTRAC using ISRO ground stations and other externally hired ground
+                    stations. The full integration and testing of the satellite were carried out at M/s Ananth
+                    Technologies, Bangalore, under the supervision of URSC. Presently, after completing all tests and
+                    clearances, the spacecraft has moved from URSC to SDSC and is undergoing preparations for launch.",PSLV C60/SPADEX Mission
+Proba-3,2024-12-05,PSLV-C59,unknown,unknown,https://www.isro.gov.in/PSLV_C59_PROBA-3_Mission.html,https://www.isro.gov.in/media_isro/pdf/PSLVC59/PSLV_C59_Brochure.pdf,"December 02, 2024
+PSLV-C59 vehicle carried Proba-3 spacecraft into a highly elliptical orbit as a Dedicated commercial mission of NewSpace India Limited (NSIL) on December 05, 2024 at 16:04 Hrs.
+Proba-3 is an In-Orbit Demonstration (IOD) mission of the European Space Agency. The mission goal is to demonstrate precise formation flying. It consists of 2 spacecrafts viz. the Coronagraph Spacecraft (CSC) and the Occulter Spacecraft (OSC) and it will be launched together in a stacked configuration. Launch is planned from First Launch Pad (FLP), Satish Dhawan Space Centre (SDSC-SHAR), Sriharikota.
+PSLV-C59 Vehicle Characteristics",PSLV-C59/Proba-3 Mission
+GSAT-N2,2024-11-19,Falcon-9,GSO (Geosynchronous Orbit),Communication,https://www.isro.gov.in/GSAT-N2_mission.html,unknown,"November 28, 2024
+GSAT-N2 had reached its final Geostationary orbit and is slowly drifting to its final orbital slot of 68 deg E longitude in a weeks’ time. Weighing 4700 kg, GSAT-N2 is a high-throughput satellite (HTS) operating in the Ka-Ka band, with a capacity of 48 Gbps. It is designed to meet broadband and in-flight connectivity needs across India. The satellite features 32 spot beams, ensuring nationwide coverage, including the remote regions of the Andaman & Nicobar and Lakshadweep Islands. The satellite was developed by UR Rao Satellite Centre with communication payloads from Space Application Centre, ISRO for NSIL. GSAT-N2 satellite is the second demand-driven communication satellite mission undertaken by New Space India Limited (NSIL), a Government of India enterprise under the Department of Space (DoS).
+Launch:
+GSAT-N2 was successfully launched on November 19, 2024, aboard a Falcon-9 rocket from Cape Canaveral Space Force Station, Florida, USA. The launcher placed spacecraft into a Super Geo-synchronous Transfer Orbit (GTO) with a perigee of 250 km, apogee of 59,730 km and an orbital Inclination of 27.5 degree.
+Satellite Control:
+After separation from the launcher, ISRO's Master Control Facility (MCF) at Hassan took over the operations. Initial data confirmed good health and stability of the satellite. The satellite's orbit was raised from GTO to Geo-Stationary Orbit (GSO) using its onboard chemical propulsion system developed by LPSC, ISRO while being controlled by MCF. Later all the three reflectors of the antennae were deployed successfully. The final trimming of the orbit by the propulsion system was completed and the system was safely isolated. Based on the propulsion system performance, there is adequate fuel left in the spacecraft to ensure its full operational life.
+Next Steps:
+The satellite will undergo elaborate In-Orbit Testing (IOT) in the coming days along with the ground communication infrastructure to verify the operation and performance of the communication payloads. Operational services are expected to commence from 68° East longitude after successful testing.",Falcon-9
+EOS-08,2024-08-16,SSLV-D3,unknown,unknown,https://www.isro.gov.in/Mission_SSLV_D3.html,https://www.isro.gov.in/media_isro/pdf/Missions/SSLVD3/SSLV-D3_Mission_Brochure130824.pdf,"August 08, 2024
+The third developmental flight of SSLV is successfully launched on August 16, 2024.
+This flight completes the SSLV Development Project and enables  operational missions by Indian industry and NSIL.",SSLV-D3/EOS-08 Mission
+INSAT-3DS,2024-02-17,GSLV-F14,GTO (Geosynchronous Transfer Orbit),Climate & Environment,https://www.isro.gov.in/GSLV-F14_INSAT-3DS_mission.html,https://www.isro.gov.in/media_isro/pdf/Missions/GSLVF14/GSLVF14-INSAT-3DS_Brochure_English.pdf,"February 8, 2024
+The launch of the GSLV-F14/INSAT-3DS mission is accomplished on Saturday, February 17, 2024, at 17:30 Hrs. IST from SDSC-SHAR, Sriharikota. In its 16th mission, the GSLV aims at deploying the INSAT-3DS meteorological satellite into the Geosynchronous Transfer Orbit (GTO). Subsequent orbit-raising maneuvers will ensure that the satellite is positioned in a Geo-stationary Orbit.
+Geosynchronous Satellite Launch Vehicle (GSLV) is a three-stage 51.7 m long launch vehicle having a liftoff mass of 420 tonnes. The first stage (GS1) comprises a solid propellant (S139) motor having 139-ton propellant and four earth-storable propellant stages (L40) strapons which carry 40 tons of liquid propellant in each. The second stage (GS2) is also an earth-storable propellant stage loaded with 40-ton propellant. The third stage (GS3) is a cryogenic stage with a 15-ton propellant loading of liquid oxygen (LOX) and liquid hydrogen (LH2). During the atmospheric regime, the Satellite is protected by Ogive payload fairing. GSLV can be used to launch a variety of spacecraft capable of performing communications, navigation, earth resource surveys, and any other proprietary mission.
+INSAT-3DS Satellite is a follow-on mission of Third Generation Meteorological Satellite from Geostationary Orbit. GSLV-F14/INSAT-3DS mission is fully funded by the Ministry of Earth Sciences (MoES). It is designed for enhanced meteorological observations and monitoring of land and ocean surfaces for weather forecasting and disaster warning. The satellite will augment the Meteorological services along with the presently operational INSAT-3D and INSAT-3DR satellites. Indian Industries have significantly contributed to the making of the Satellite.
+Various departments of the Ministry of Earth Sciences (MoES) such as the India Meteorology Department (IMD), National Centre for Medium-Range Weather Forecasting (NCMRWF), Indian Institute of Tropical Meteorology (IITM), National Institute of Ocean Technology (NIOT), Indian National Center for Ocean Information Services (INCOIS) and various other agencies and institutes will be using the INSAT-3DS Satellite data to provide improved weather forecasts and meteorological services.
+Satellite salient features",GSLV-F14/INSAT-3DS Mission
+XPoSat,2024-01-01,PSLV-C58,Low-inclination circular orbit,X-ray Astronomy,https://www.isro.gov.in/XPoSat.html,https://www.isro.gov.in/media_isro/pdf/Missions/PSLV_C58/PSLV_C58_Brochure.pdf,unknown,PSLV-C58/XPoSat Mission
+Aditya-L1,2023-09-02,PSLV-C57,Lunar,Planetary Observation,https://www.isro.gov.in/Aditya_L1-MissionDetails.html,https://www.isro.gov.in/media_isro/pdf/AdityaL1_Mission_Brochure.pdf,"September 1, 2023
+Aditya-L1 is a satellite dedicated to the comprehensive study of the Sun. It has 7 distinct payloads developed, all developed indigenously. Five by ISRO and two by Indian academic institutes in collaboration with ISRO.
+Aditya in Sanskrit means the Sun. L1 here refers to Lagrange Point 1 of the Sun-Earth system. For common understanding, L1 is a location in space where the gravitational forces of two celestial bodies, such as the Sun and Earth, are in equilibrium. This allows an object placed there to remain relatively stable with respect to both celestial bodies.
+Following its scheduled launch on September 2, 2023, Aditya-L1 stays Earth-bound orbits for 16 days, during which it undergoes 5 maneuvres to gain the necessary velocity for its journey. Subsequently, Aditya-L1 undergoes a Trans-Lagrangian1 insertion maneuvre, marking the beginning of its 110-day trajectory to the destination around the L1 Lagrange point. Upon arrival at the L1 point, another maneuvre binds Aditya-L1 to an orbit around L1, a balanced gravitational location between the Earth and the Sun. The satellite spends its whole mission life orbiting around L1 in an irregularly shaped orbit in a plane roughly perpendicular to the line joining the Earth and the Sun.
+The strategic placement at the L1 Lagrange point ensures that Aditya-L1 can maintain a constant, uninterrupted view of the Sun. This location also allows the satellite to access solar radiation and magnetic storms before they are influenced by Earth's magnetic field and atmosphere. Additionally, the L1 point’s gravitational stability minimizes the need for frequent orbital maintenance efforts, optimizing the satellite's operational efficiency.
+Quick Facts: Aditya-L1 will stay approximately 1.5 million km away from Earth, directed towards the Sun, which is about 1% of the Earth-Sun distance. The Sun is a giant sphere of gas and Aditya-L1 would study the outer atmosphere of the Sun. Aditya-L1 will neither land on the Sun nor approach the Sun any closer.",PSLV-C57/Aditya-L1 Mission
+Chandrayaan-3,2023-07-14,LVM3 M4,Lunar,Planetary Observation,https://www.isro.gov.in/Chandrayaan3_Details.html,https://www.isro.gov.in/media_isro/pdf/Missions/LVM3/LVM3M4_Chandrayaan3_brochure.pdf,"Chandrayaan-3 is a follow-on mission to Chandrayaan-2 to demonstrate end-to-end capability in safe landing and roving on the lunar surface. It consists of Lander and Rover configuration. It will be launched by LVM3 from SDSC SHAR, Sriharikota. The propulsion module will carry the lander and rover configuration till 100 km lunar orbit. The propulsion module has Spectro-polarimetry of Habitable Planet Earth (SHAPE) payload to study the spectral and Polari metric measurements of Earth from the lunar orbit.
+Lander payloads:Chandra’s Surface Thermophysical Experiment (ChaSTE) to measure the thermal conductivity and temperature; Instrument for Lunar Seismic Activity (ILSA) for measuring the seismicity around the landing site; Langmuir Probe (LP) to estimate the plasma density and its variations. A passive Laser Retroreflector Array from NASA is accommodated for lunar laser ranging studies.
+Rover payloads:Alpha Particle X-ray Spectrometer (APXS) and Laser Induced Breakdown Spectroscope (LIBS) for deriving the elemental composition in the vicinity of landing site.
+Chandrayaan-3 consists of an indigenous Lander module (LM), Propulsion module (PM) and a Rover with an objective of developing and demonstrating new technologies required for Inter planetary missions. The Lander will have the capability to soft land at a specified lunar site and deploy the Rover which will carry out in-situ chemical analysis of the lunar surface during the course of its mobility. The Lander and the Rover have scientific payloads to carry out experiments on the lunar surface.  The main function of PM is to carry the LM from launch vehicle injection till final lunar 100 km circular polar orbit and separate the LM from PM.   Apart from this, the Propulsion Module also has one scientific payload as a value addition which will be operated post separation of Lander Module. The launcher identified for Chandrayaan-3 is LVM3 M4 which will place the integrated module in an Elliptic Parking Orbit (EPO) of size ~170 x 36500 km.
+The mission objectives of Chandrayaan-3 are:
+
+To achieve the mission objectives, several advanced technologies are present in Lander such as,
+
+To demonstrate the above said advanced technologies in earth condition, several Lander special tests have been planned and carried out successfully viz.
+The overall specifications for Chandrayaan-3 is provided below:
+The objectives of scientific payloads planned on Chandrayaan-3 Lander Module and Rover are provided below:
+Three dimensional views of Chandrayaan-3 modules are provided below:",LVM3 M4 / Chandrayaan-3 Mission
+NVS-01,2023-05-29,GSLV-F12,GEO,Navigation,https://www.isro.gov.in/GSLV_F12_Landingpage.html,https://www.isro.gov.in/media_isro/pdf/Missions/GSLVF12/GSLVF12_NVS01_Mission.pdf,"May 22, 2023
+
+GSLV-F12/NVS-01 mission is accomplished successfully on Monday, May 29, 2023.  This Geosynchronous Satellite Launch Vehicle (GSLV) mission deployed NVS-01 navigation satellite, weighing about 2232 kg, into a Geosynchronous Transfer Orbit. The vehicle lifted off at 10:42 hours IST from the second launch pad at SDSC-SHAR, Sriharikota and injected the satellite after about 19 minutes of flight.
+NVS-01 is the first of the second-generation satellites envisaged for the Navigation with Indian Constellation (NavIC) services. NVS series of satellites will sustain and augment the NavIC with enhanced features. This series incorporates L1 band signals additionally to widen the services. For the first time, an indigenous atomic clock will be flown in NVS-01.",GSLV-F12/NVS-01 Mission
+EOS-07,2023-02-10,SSLV-D2,unknown,Earth Observation,https://www.isro.gov.in/EOS_07.html,unknown,"Feb 22, 2023
+
+Mission Parameter:
+
+Structure:
+
+Structure:
+
+Thermal Control:
+
+Mechanism:
+
+Power:
+
+Sensors:
+
+Actuators:
+
+AOCS:
+
+Onboard Computer:
+
+RF System:
+
+Data Handling & Storage:
+
+Major Payloads: -",SSLV-D2/EOS-07 Mission
+INS-2B,2022-11-26,PSLV-C54,unknown,Earth Observation,https://www.isro.gov.in/EOS_06.html#eos,https://www.isro.gov.in/media_isro/pdf/Missions/PSLVC54/PSLVC54_EOS6_BrochureV4.pdf,"Nov 22, 2022Back to ISRO
+                                        Timeline
+Global false colour composite mosaic generated from EOS-06 data
+
+EOS-6 is the third-generation satellite
+in the Oceansat series. This is to provide
+continuity services of Oceansat-2
+spacecraft with enhanced payload
+specifications as well as application areas.","PSLV-C54/EOS-06
+                                          Mission"
+EOS-06,2022-11-26,PSLV-C54,unknown,Earth Observation,https://www.isro.gov.in/EOS_06.html,https://www.isro.gov.in/media_isro/pdf/Missions/PSLVC54/PSLVC54_EOS6_BrochureV4.pdf,"Nov 22, 2022Back to ISRO
+                                        Timeline
+Global false colour composite mosaic generated from EOS-06 data
+
+EOS-6 is the third-generation satellite
+in the Oceansat series. This is to provide
+continuity services of Oceansat-2
+spacecraft with enhanced payload
+specifications as well as application areas.","PSLV-C54/EOS-06
+                                          Mission"
+EOS-02,2022-08-07,SSLV-D1,unknown,Earth Observation,https://www.isro.gov.in/mission_EOS_02.html,https://www.isro.gov.in/media_isro/pdf/Missions/sslv_brochure/sslvd1-eos2_-_mission_brochure.pdf,"Aug 07, 2022
+EOS-02 is an earth observation satellite designed and realised by ISRO. This microsat series satellite offers advanced optical remote sensing operating in infra-red band with high spatial resolution. The bus configuration is derived from IMS-1 bus.
+प्रमोचक राकेट / Launch Vehicle:SSLV-D1/EOS-02 Missionउपग्रह का प्रकार / Type of Satellite:Earth Observationनिर्माता / Manufacturer:ISROस्‍वामी / Owner:ISROअनुप्रयोग / Application:Earth Observation","SSLV-D1/EOS-02
+                                          Mission"
+GSAT-24,2022-06-23,Ariane-V(VS257),GSO (Geosynchronous Orbit),Communication,https://www.isro.gov.in/GSAT_24.html,unknown,unknown,Ariane-V(VS257)
+INS-2TD,2022-02-14,PSLV-C52,unknown,Experimental,https://www.isro.gov.in/mission_PSLV_C52_INS_2TD.html,https://www.isro.gov.in/media_isro/pdf/Missions/pslv-c52-eos-04-v4.pdf,"INS-2TD a technology demonstrator satellite from ISRO, which is a
+                                    precursor to India-Bhutan Joint Satellite (INS-2B).
+प्रमोचक राकेट / Launch Vehicle:PSLV-C52/EOS-04 Missionउपग्रह का प्रकार / Type of Satellite:Experimentalनिर्माता / Manufacturer:ISROस्‍वामी / Owner:ISROअनुप्रयोग / Application:Experimental","PSLV-C52/EOS-04
+                                          Mission"
+EOS-04,2022-02-14,PSLV-C52,unknown,Earth Observation,https://www.isro.gov.in/mission_PSLV_C52_EOS_04.html,https://www.isro.gov.in/media_isro/pdf/Missions/pslv-c52-eos-04-v4.pdf,"EOS-04 is a Radar Imaging Satellite designed to provide high quality
+                                    images under all weather conditions for applications such as
+                                    Agriculture, Forestry & Plantations, Soil Moisture & Hydrology and Flood
+                                    mapping.
+प्रमोचक राकेट / Launch Vehicle:PSLV-C52/EOS-04 Missionउपग्रह का प्रकार / Type of Satellite:Earth Observationअनुप्रयोग / Application:Earth Observation","PSLV-C52/EOS-04
+                                          Mission"
+EOS-03,2021-08-12,GSLV-F10,GTO (Geosynchronous Transfer Orbit),Earth Observation,https://www.isro.gov.in/EOS_03.html,https://www.isro.gov.in/media_isro/pdf/gslv_f10_eos-03_mission_brochure.pdf,"Aug 12, 2021Back to ISRO Timeline","GSLV-F10 /
+                                          EOS-03
+                                          Mission"
+CMS-01,2020-12-17,PSLV-C50,GSO (Geosynchronous Orbit),Communication,https://www.isro.gov.in/mission_PSLV_C50_CMS_01.html,https://www.isro.gov.in/media_isro/pdf/Missions/pslv-c50_cms-01_mission_-_brochure_-_ver_8.pdf,"CMS-01 is a communication satellite envisaged for providing services in
+                                    Extended-C Band of the frequency spectrum. The Extended-C Band coverage
+                                    will include Indian mainland, Andaman-Nicobar & Lakshadweep Islands.
+                                    CMS-01 is the 42nd Communication Satellite of India.
+मिशन कालावधि / Mission Life:7 yearsप्रमोचक राकेट / Launch Vehicle:PSLV-C50/CMS-01उपग्रह का प्रकार / Type of Satellite:Communicationनिर्माता / Manufacturer:ISROस्‍वामी / Owner:ISROअनुप्रयोग / Application:Communicationकक्षा का प्रकार / Orbit Type:GSO (Geosynchronous Orbit)",PSLV-C50/CMS-01
+EOS-01,2020-11-07,PSLV-C49,LEO (Low Earth Orbit),"Disaster Management System, Earth Observation",https://www.isro.gov.in/mission_PSLV_C49_EOS_01.html,https://www.isro.gov.in/media_isro/pdf/Missions/PSLV-C49%20EOS-01%20Mission.pdf,"EOS-01 is an earth observation satellite, intended for applications in
+                                    agriculture, forestry and disaster management support.
+प्रमोचक राकेट / Launch Vehicle:PSLV-C49/EOS-01उपग्रह का प्रकार / Type of Satellite:Earth Observationनिर्माता / Manufacturer:ISROस्‍वामी / Owner:ISROअनुप्रयोग / Application:Disaster Management System Earth
+                                    Observationकक्षा का प्रकार / Orbit Type:LEO (Low Earth Orbit)",PSLV-C49/EOS-01
+GSAT-30,2020-01-17,Ariane-5 VA-251,GSO (Geosynchronous Orbit),Communication,https://www.isro.gov.in/GSAT_30.html,unknown,Back to ISRO Timeline,Ariane-5 VA-251
+RISAT-2BR1,2019-12-11,PSLV-C48,LEO (Low Earth Orbit),"Disaster Management System, Earth Observation",https://www.isro.gov.in/RISAT_2BR1.html,https://www.isro.gov.in/media_isro/pdf/Missions/PSLVC48/PSLV-C48RISAT-2BR1Mission.pdf,unknown,PSLV-C48/RISAT-2BR1
+Cartosat-3,2019-11-27,PSLV-C47,SSPO (Sun Synchronous Polar Orbit),Earth Observation,https://www.isro.gov.in/Cartosat_3.html,https://www.isro.gov.in/media_isro/pdf/Missions/PSLVC47/PSLV_C47LaunchKit_cdr.pdf,unknown,"PSLV-C47 /
+                                          Cartosat-3 Mission"
+Chandrayaan2,2019-07-22,"GSLV-Mk
+                                          III
+                                          - M1",Lunar,Planetary Observation,https://www.isro.gov.in/Chandrayaan_2.html,unknown,"Jul 22,2019","GSLV-Mk
+                                          III
+                                          - M1 / Chandrayaan-2 Mission"
+RISAT-2B,2019-05-22,PSLV-C46 Mission,LEO (Low Earth Orbit),"Disaster Management System, Earth Observation",https://www.isro.gov.in/RISAT_2B.html,https://www.isro.gov.in/media_isro/pdf/Missions/PSLVC46/PSLV-C46RISAT2Blaunchkit.pdf,unknown,PSLV-C46 Mission
+EMISAT,2019-04-01,PSLV-C45,SSPO (Sun Synchronous Polar Orbit),unknown,https://www.isro.gov.in/EMISAT.html,unknown,unknown,"PSLV-C45/EMISAT
+                                          MISSION"
+GSAT-31,2019-02-06,Ariane-5 VA-247,GTO (Geosynchronous Transfer Orbit),Communication,https://www.isro.gov.in/GSAT31.html,https://www.isro.gov.in/media_isro/pdf/GSAT-31Brochure.pdf,"Back to ISRO Timeline
+Feb 06, 2019",Ariane-5 VA-247
+Microsat-R,2019-01-24,PSLV-C44,SSPO (Sun Synchronous Polar Orbit),unknown,https://www.isro.gov.in/Microsat_R.html,https://www.isro.gov.in/media_isro/pdf/Missions/PSLV_C44_Broucher.pdf,"Microsat-R, an imaging satellite was successfully injected into intended orbit of
+                                        274 km by PSLV-C44 on January 24, 2019",PSLV-C44
+GSAT-7A,2018-12-19,GSLV-F11,unknown,Communication,https://www.isro.gov.in/GSAT_7A.html,unknown,"Dec 19, 2018
+GSAT-7A is the 35th Indian Communication satellite built by ISRO. GSAT-7A
+                                        Spacecraft is configured on ISRO’s standard I-2000 Kg (I-2K) Bus. The
+                                        Satellite is built to provide communication capability to the users in
+                                        Ku-band over the Indian region.","GSLV-F11 /
+                                          GSAT-7A Mission"
+GSAT-11 Mission,2018-12-05,Ariane-5 VA-246,GTO (Geosynchronous Transfer Orbit),Communication,https://www.isro.gov.in/GSAT_11.html,https://www.isro.gov.in/media_isro/pdf/GSAT-11%20Brochure.pdf,"Back to ISRO Timeline
+Dec 05, 2018",Ariane-5 VA-246
+HysIS,2018-11-29,PSLV-C43,SSPO (Sun Synchronous Polar Orbit),Earth Observation,https://www.isro.gov.in/HysIS.html,https://www.isro.gov.in/media_isro/pdf/PSLV_C43_HysIS_Brochure.pdf,unknown,"PSLV-C43 /
+                                          HysIS Mission"
+GSAT-29,2018-11-14,"GSLV Mk
+                                          III-D2",GTO (Geosynchronous Transfer Orbit),Communication,https://www.isro.gov.in/GSAT_29.html,https://www.isro.gov.in/media_isro/image/media/Missions/GSLV-MK/GSAT29/more/pdf/GSLV%20Mk%20III%20-%20D2%20.pdf,"Nov 14,2018","GSLV Mk
+                                          III-D2 / GSAT-29 Mission"
+IRNSS-1I,2018-04-12,PSLV-C41,GSO (Geosynchronous Orbit),Navigation,https://www.isro.gov.in/IRNSS_1I.html,unknown,unknown,PSLV-C41/IRNSS-1I
+GSAT-6A,2018-03-29,GSLV-F08,GSO (Geosynchronous Orbit),Communication,https://www.isro.gov.in/GSAT_6A.html,unknown,"Mar 29, 2018","GSLV-F08/GSAT-6A
+                                          Mission"
+INS-1C,2018-01-12,PSLV-C40,SSPO (Sun Synchronous Polar Orbit),Experimental,https://www.isro.gov.in/INS_1C.html,unknown,unknown,"PSLV-C40/Cartosat-2
+                                          Series Satellite Mission"
+Microsat,2018-01-12,PSLV-C40,SSPO (Sun Synchronous Polar Orbit),Experimental,https://www.isro.gov.in/Microsat.html,unknown,unknown,"PSLV-C40/Cartosat-2
+                                          Series Satellite Mission"
+"Cartosat-2 Series
+                                             Satellite",2018-01-12,PSLV-C40,SSPO (Sun Synchronous Polar Orbit),Earth Observation,https://www.isro.gov.in/CARTOSAT_2_PSLVC40.html,unknown,unknown,"PSLV-C40/Cartosat-2
+                                          Series Satellite Mission"
+IRNSS-1H,2017-08-31,PSLV-C39,unknown,Navigation,https://www.isro.gov.in/IRNSS_1H.html,unknown,unknown,"PSLV-C39/IRNSS-1H
+                                          Mission"
+GSAT-1,2017-06-29,Ariane-5 VA-238,GTO (Geosynchronous Transfer Orbit),Communication,https://www.isro.gov.in/GSAT_17.html,unknown,"June 29, 2017Back to ISRO Timeline",Ariane-5 VA-238
+"Cartosat-2 Series
+                                             Satellite",2017-06-23,PSLV-C38,SSPO (Sun Synchronous Polar Orbit),Earth Observation,https://www.isro.gov.in/CARTOSAT_2_PSLVC38.html,https://www.isro.gov.in/media_isro/pdf/Missions/PSLV-C38.pdf,unknown,"PSLV-C38
+                                          / Cartosat-2 Series Satellite"
+GSAT-19,2017-06-05,"GSLV Mk
+                                          III-D1",GSO (Geosynchronous Orbit),Communication,https://www.isro.gov.in/GSAT_19.html,https://www.isro.gov.in/media_isro/image/media/Missions/GSLV-MK/GSAT19/more/pdf/GSLV_Mark_III_D1.pdf,"Jun 05,2017","GSLV Mk
+                                          III-D1/GSAT-19 Mission"
+GSAT-9,2017-05-05,GSLV-F09,GSO (Geosynchronous Orbit),Communication,https://www.isro.gov.in/GSAT_9.html,unknown,"May 05, 2017",GSLV-F09 / GSAT-9
+Cartosat -2 Series Satellite,2017-02-15,PSLV-C37,SSPO (Sun Synchronous Polar Orbit),Earth Observation,https://www.isro.gov.in/CARTOSAT_2_PSLVC37.html,https://www.isro.gov.in/media_isro/pdf/Missions/PSLV-C37.pdf,unknown,"PSLV-C37
+                                          / Cartosat -2 Series Satellite"
+INS-1A,2017-02-15,PSLV-C37,SSPO (Sun Synchronous Polar Orbit),Experimental,https://www.isro.gov.in/INS_1A.html,https://www.isro.gov.in/media_isro/pdf/Missions/PSLV-C37.pdf,unknown,"PSLV-C37
+                                          / Cartosat -2 Series Satellite"
+INS-1B,2017-02-15,PSLV-C37,SSPO (Sun Synchronous Polar Orbit),Experimental,https://www.isro.gov.in/INS_1B.html,https://www.isro.gov.in/media_isro/pdf/Missions/PSLV-C37.pdf,unknown,"PSLV-C37
+                                          / Cartosat -2 Series Satellite"
+RESOURCESAT-2A,2016-12-07,PSLV-C36,SSPO (Sun Synchronous Polar Orbit),Earth Observation,https://www.isro.gov.in/RESOURCESAT_2A.html,https://www.isro.gov.in/media_isro/pdf/Missions/PSLV-C36.pdf,unknown,"PSLV-C36 /
+                                          RESOURCESAT-2A"
+GSAT-18,2016-10-06,Ariane-5 VA-231,GSO (Geosynchronous Orbit),Communication,https://www.isro.gov.in/GSAT_18.html,https://www.isro.gov.in/media_isro/pdf/GSAT%2018%20-%20Brochure.pdf,"October 06, 2016Back to ISRO Timeline",Ariane-5 VA-231
+SCATSAT-1,2016-09-26,PSLV-C35,SSPO (Sun Synchronous Polar Orbit),Climate & Environment,https://www.isro.gov.in/SCATSAT_1.html,unknown,unknown,"PSLV-C35 /
+                                          SCATSAT-1"
+INSAT-3DR,2016-09-08,GSLV-F05,GSO (Geosynchronous Orbit),"Climate & Environment, Disaster Management System",https://www.isro.gov.in/INSAT_3DR.html,unknown,"Sep 08, 2016","GSLV-F05 /
+                                          INSAT-3DR"
+"CARTOSAT-2 Series
+                                             Satellite",2016-06-22,PSLV-C34,SSPO (Sun Synchronous Polar Orbit),Earth Observation,https://www.isro.gov.in/CARTOSAT_2_PSLVC34.html,unknown,unknown,"PSLV-C34
+                                          / CARTOSAT-2 Series Satellite"
+IRNSS-1G,2016-04-28,PSLV-C33,GEO,Navigation,https://www.isro.gov.in/IRNSS_1G.html,https://www.isro.gov.in/media_isro/image/media/Missions/PSLV/more/PSLV33/publication_pslv33.pdf,"This is the thirty-fourth consecutively successful
+                                        mission of PSLV, repeatedly proving its reliability and versatility.",PSLV-C33/IRNSS-1G
+IRNSS-1F,2016-03-10,PSLV-C32,GEO,Navigation,https://www.isro.gov.in/IRNSS_1F.html,https://www.isro.gov.in/media_isro/image/media/Missions/PSLV/more/PSLV32/publication_pslv32.pdf,"IRNSS-1F is the sixth navigation satellite of the seven satellites constituting
+                                        the Indian Regional Navigation Satellite System (IRNSS) space segment. Its
+                                        predecessors, IRNSS-1A, 1B, 1C, 1D and 1E were successfully launched by
+                                        PSLV-C22, PSLV-C24, PSLV-C26, PSLV-C27 and PSLV-C31 in July 2013, April 2014,
+                                        October 2014, March 2015 and January 2016 respectively. All the five satellites
+                                        are functioning satisfactorily from their designated orbital positions.
+IRNSS-1F has a lift-off mass of 1425 kg. The configuration of IRNSS-1F is similar
+                                    to that of IRNSS-1A, 1B, 1C, 1D and 1E. The two solar arrays of IRNSS-1F
+                                    consisting of Ultra Triple Junction solar cells generate about 1660 Watts of
+                                    electrical power. Sun and Star sensors as well as gyroscopes provide orientation
+                                    reference for the satellite. Special thermal control schemes have been designed
+                                    and implemented for some of the critical elements such as atomic clocks. The
+                                    Attitude and Orbit Control System (AOCS) of IRNSS-1F maintains the satellite's
+                                    orientation with the help of reaction wheels, magnetic torques and thrusters.
+                                    Its propulsion system consists of a Liquid Apogee Motor (LAM) and thrusters.
+IRNSS -1F carries two types of payloads – navigation payload and ranging payload.
+                                    The navigation payload of IRNSS-1F transmits navigation service signals to the
+                                    users. This payload is operating in L5-band and S-band. A highly accurate
+                                    Rubidium atomic clock is part of the navigation payload of the satellite. The
+                                    ranging payload of IRNSS-1F consists of a C-band transponder, which facilitates
+                                    accurate determination of the range of the satellite. IRNSS-1F also carries
+                                    Corner Cube Retro Reflectors for laser ranging.
+IRNSS-1F was launched by PSLV-C32 into a sub Geosynchronous Transfer Orbit (sub
+                                    GTO) on March 10, 2016 at 16:01 hrs (IST) from Satish Dhawan Space Centre (SDSC)
+                                    SHAR, Sriharikota.",PSLV-C32/IRNSS-1F
+IRNSS-1E,2016-01-20,PSLV-C31,GSO (Geosynchronous Orbit),Navigation,https://www.isro.gov.in/IRNSS_1E.html,https://www.isro.gov.in/media_isro/image/media/Missions/PSLV/more/PSLV31/publication_PSLV31.pdf,unknown,PSLV-C31/IRNSS-1E
+GSAT-15,2015-11-11,Ariane-5 VA-227,GEO,"Communication, Navigation",https://www.isro.gov.in/GSAT_15.html,unknown,"Jul 10, 2015Back to ISRO Timeline",Ariane-5 VA-227
+Astrosat,2015-09-28,PSLV-C30,Polar,Space Science,https://www.isro.gov.in/Astrosat_Spacecraft.html,unknown,"AstroSat is India’s first dedicated Space Astronomy Observatory launched into a 650-km, 6° inclination orbit on September 28, 2015, with a lift-off mass of 1515 kg, by PSLV-C30 (XL) rocket from Satish Dhawan Space Centre Sriharikota. AstroSat carries a total of five scientific payloads enabling imaging, studying temporal and spectral properties of galactic and extra- galactic cosmic sources in a wide range of wavelengths on a common platform.
+The unique feature of this observatory is its capability for carrying out broad band simultaneous multi-wavelength observation going from far ultra violet to gamma rays. UVIT has the highest angular resolution of 1.5 arc sec which is 3 times better than the next best UV telescope (GALEX-Galaxy evolution explorer) operational today. LAXPC has the highest collecting area in comparison to any other X-ray detector till today. CZTI possesses a unique capability of measuring X-ray polarization and also acts as an open detector beyond 100 keV.
+ISRO enabled Indian academic institutions Tata Institute of Fundamental Research (TIFR) Mumbai, Indian Institute of Astrophysics (IIA) Bangalore, Inter University Centre for Astronomy &Astrophysics (IUCAA) Pune and Physical research laboratory (PRL) Ahmedabad","PSLV-C30/AstroSat
+                                          MISSION"
+GSAT-6,2015-08-27,GSLV-D6,GTO (Geosynchronous Transfer Orbit),Communication,https://www.isro.gov.in/GSAT_6.html,https://www.isro.gov.in/media_isro/pdf/GSLVD6/publication_gslvd6.pdf,unknown,GSLV-D6
+IRNSS-1D,2015-03-28,PSLV-C27,GSO (Geosynchronous Orbit),Navigation,https://www.isro.gov.in/IRNSS_1D.html,unknown,unknown,PSLV-C27/IRNSS-1D
+"Crew module Atmospheric Re-entry
+                                             Experiment (CARE)",2014-12-18,LVM-3,unknown,Experimental,https://www.isro.gov.in/CARE.html,https://www.isro.gov.in/media_isro/pdf/LVM3-brochure.pdf,"Dec 18,2014","LVM-3/CARE
+                                          Mission"
+GSAT-16,2014-12-07,Ariane-5 VA-221,GSO (Geosynchronous Orbit),Communication,https://www.isro.gov.in/GSAT_16.html,unknown,"Apr 04, 2014Back to ISRO Timeline",Ariane-5 VA-221
+IRNSS-1C,2014-10-16,PSLV-C26,GEO,Navigation,https://www.isro.gov.in/IRNSS_1C.html,unknown,unknown,PSLV-C26/IRNSS-1C
+IRNSS-1B,2014-04-04,PSLV-C24,GSO (Geosynchronous Orbit),Navigation,https://www.isro.gov.in/IRNSS_1B.html,unknown,unknown,PSLV-C24/IRNSS-1B
+GSAT-14,2014-01-05,GSLV-D5,GSO (Geosynchronous Orbit),Communication,https://www.isro.gov.in/GSAT_14.html,unknown,"Jan 05, 2014",GSLV-D5/GSAT-14
+"Mars Orbiter Mission
+                                             Spacecraft",2013-11-05,PSLV-C25,Martian,Planetary Observation,https://www.isro.gov.in/MarsOrbiterMissionSpacecraft.html,unknown,"Mars Orbiter Mission (MOM), India's first interplanetary mission to planet Mars was launchedonboard PSLV-C25 on November 05, 2013. ISRO has become the fourth space agency to successfully send a spacecraft to Mars orbit.Though the designed mission life is 6 months, MOM completed 7 years in its orbit on Sept 24, 2021.
+The objectives of this mission are primarily technological and include design, realisation and launch of a Mars Orbiter spacecraft capable of operating with sufficient autonomy during the journey phase; Mars orbit insertion / capture and in-orbit phase around Mars.   MOM carries five scientific payloads to study the Martian surface features, morphology, mineralogy and Martian atmosphere.
+Mars continues to be an object of keen interest to scientists in the context of planetary evolution and extra-terrestrial life. Based on our understanding of Mars, which was thought to be probably a warm and wet planet earlier, is now seen to be dry with a thin atmosphere. How this evolution has taken place is still a topic of research. In this backdrop, the Indian Mars Orbiter Mission carried the following five scientific payloads:
+
+
+
+The main objective of the Mars Colour camera therefore is:
+The salient features of this instrument are given below: -
+
+
+The Primary science objective of this payload is to detect and measure methane concentration in Martian atmosphere (if it does exist) under clear sky conditions.Other studies which are possible are:
+The instrument features are given below: -
+
+
+This spectrometer operates in the thermal infrared (TIR) region (7 micron to 13 micron). TIS has been configured with an un-cooled micro-bolometer array that saves significantly in terms of weight and power when compared to a cooled IR detector. This payload is developed by Space Applications Centre, Ahmedabad.
+The instrument features are:
+
+
+MENCA, a quadrupole mass spectrometer, consists of a filament, detectors and associated electronics system. The detectors being used in MENCA are Channel Electron Multiplier (CEM) and Faraday Cup (FC). A suitable combination of Radio Frequency and DC voltages are applied to the alternate pairs of quadrupole rods to accomplish the mass separation and thereby the determination of partial pressure of species. Also, MENCA has an in-built pressure gauge for the measurement of total pressure. In addition to acquiring the mass spectra in a specified mass range (which can be varied), the instrument has a provision to study the time-evolution of a set of selectable species in the trend mode of operation. The dynamic range of the instrument is in the order of 1010.
+
+
+
+Scientific analysis of the data being received from the Mars Orbiter spacecraft is in progress. Scientific Data archived at ISSDC is made available to user communities.",PSLV-C25
+GSAT-7,2013-08-30,Ariane-5 VA-215,GSO (Geosynchronous Orbit),Communication,https://www.isro.gov.in/GSAT_7.html,unknown,unknown,Ariane-5 VA-215
+INSAT-3D,2013-07-26,Ariane-5 VA-214,GSO (Geosynchronous Orbit),"Climate & Environment, Disaster Management System",https://www.isro.gov.in/INSAT_3D.html,unknown,Back to ISRO Timeline,Ariane-5 VA-214
+IRNSS-1A,2013-07-01,PSLV-C22,GSO (Geosynchronous Orbit),Navigation,https://www.isro.gov.in/IRNSS_1A.html,unknown,unknown,PSLV-C22/IRNSS-1A
+SARAL,2013-02-25,PSLV-C20,SSPO (Sun Synchronous Polar Orbit),"Climate & Environment, Earth Observation",https://www.isro.gov.in/SARAL.html,https://www.isro.gov.in/media_isro/pdf/Missions/publication_PSLVC20.pdf,unknown,PSLV-C20/SARAL
+GSAT-10,2012-09-29,Ariane-5 VA-209,GEO,"Communication, Navigation",https://www.isro.gov.in/GSAT_10.html,unknown,Back to ISRO Timeline,Ariane-5 VA-209
+RISAT-1,2012-04-26,PSLV-C19,SSPO (Sun Synchronous Polar Orbit),Earth Observation,https://www.isro.gov.in/RISAT_1.html,https://www.isro.gov.in/media_isro/pdf/Missions/publication_PSLVC19.pdf,unknown,PSLV-C19/RISAT-1
+Megha-Tropiques,2011-10-12,PSLV-C18,SSPO (Sun Synchronous Polar Orbit),"Climate & Environment, Earth Observation",https://www.isro.gov.in/Megha_Tropiques.html,https://www.isro.gov.in/media_isro/pdf/PSLVC18/publication.pdf,unknown,PSLV-C18/Megha-Tropiques
+GSAT-12,2011-07-15,PSLV-C17,GSO (Geosynchronous Orbit),Communication,https://www.isro.gov.in/GSAT_12.html,https://www.isro.gov.in/media_isro/pdf/PSLVC17/publication_pslvc17.pdf,unknown,PSLV-C17/GSAT-12
+GSAT-8,2011-05-21,Ariane-5 VA-202,GEO,"Communication, Navigation",https://www.isro.gov.in/GSAT_8.html,unknown,Back to ISRO Timeline,Ariane-5 VA-202
+RESOURCESAT-2,2011-04-20,PSLV-C16,SSPO (Sun Synchronous Polar Orbit),Earth Observation,https://www.isro.gov.in/RESOURCESAT_2.html,https://www.isro.gov.in/media_isro/pdf/PSLVC16/publication_pslvc16.pdf,unknown,PSLV-C16/RESOURCESAT-2
+YOUTHSAT,2011-04-20,PSLV-C16,SSPO (Sun Synchronous Polar Orbit),Student Satellite,https://www.isro.gov.in/YOUTHSAT.html,https://www.isro.gov.in/media_isro/pdf/PSLVC16/publication_pslvc16.pdf,unknown,PSLV-C16/RESOURCESAT-2
+GSAT-5P,2010-12-25,GSLV-F06,GSO (Geosynchronous Orbit),Communication,https://www.isro.gov.in/GSAT_5P.html,https://www.isro.gov.in/media_isro/pdf/GSLVF06/publication_gslvf06.pdf,"Dec 25, 2010","GSLV-F06 /
+                                          GSAT-5P"
+CARTOSAT-2B,2010-07-12,PSLV-C15,SSPO (Sun Synchronous Polar Orbit),Earth Observation,https://www.isro.gov.in/CARTOSAT_2B.html,https://www.isro.gov.in/media_isro/pdf/PSLVC15/pslvc15_brochr.pdf,unknown,PSLV-C15/CARTOSAT-2B
+GSAT-4,2010-04-15,GSLV-D3,GSO (Geosynchronous Orbit),Communication,https://www.isro.gov.in/GSAT_4.html,unknown,"Apr 15, 2010",GSLV-D3 / GSAT-4
+Oceansat-2,2009-09-23,PSLV-C14,SSPO (Sun Synchronous Polar Orbit),"Climate & Environment, Earth Observation",https://www.isro.gov.in/Oceansat_2.html,https://www.isro.gov.in/media_isro/pdf/PSLVC14/pslvc14_brochr.pdf,unknown,"PSLV-C14 /
+                                          OCEANSAT-2"
+RISAT-2,2009-04-20,PSLV-C12,SSPO (Sun Synchronous Polar Orbit),Earth Observation,https://www.isro.gov.in/RISAT_2.html,unknown,unknown,"PSLV-C12 /
+                                          RISAT-2"
+Chandrayaan-1,2008-10-22,PSLV-C11,Lunar,Planetary Observation,https://www.isro.gov.in/Chandrayaan_1.html,https://www.isro.gov.in/media_isro/pdf/chandrayaan/PSLV_C11_PUBLICATION.pdf,unknown,PSLV-C11
+IMS-1,2008-04-28,PSLV-C9,SSPO (Sun Synchronous Polar Orbit),Earth Observation,https://www.isro.gov.in/IMS_1.html,https://www.isro.gov.in/media_isro/pdf/Cartosat-2A/CARTOSAT_2A_PUBLICATION.pdf,unknown,"PSLV-C9 /
+                                          CARTOSAT
+                                          – 2A"
+"CARTOSAT –
+                                             2A",2008-04-28,PSLV-C9,SSPO (Sun Synchronous Polar Orbit),Earth Observation,https://www.isro.gov.in/CARTOSAT_2A.html,https://www.isro.gov.in/media_isro/pdf/Cartosat-2A/CARTOSAT_2A_PUBLICATION.pdf,unknown,"PSLV-C9 /
+                                          CARTOSAT – 2A"
+INSAT-4CR,2007-09-02,GSLV-F04,GSO (Geosynchronous Orbit),Communication,https://www.isro.gov.in/INSAT_4CR.html,https://www.isro.gov.in/media_isro/pdf/Insat-4CR/INSAT_4CR_PUBLICATION.pdf,"Sep 02, 2007","GSLV-F04 /
+                                          INSAT-4CR"
+INSAT-4B,2007-03-12,Ariane5,GSO (Geosynchronous Orbit),Communication,https://www.isro.gov.in/INSAT_4B.html,unknown,Back to ISRO Timeline,Ariane5
+CARTOSAT-2,2007-01-10,PSLV-C7,SSPO (Sun Synchronous Polar Orbit),Earth Observation,https://www.isro.gov.in/CARTOSAT_2.html,https://www.isro.gov.in/media_isro/pdf/Missions/PSLVC7/publication.pdf,unknown,"PSLV-C7 /
+                                          CARTOSAT-2 / SRE-1"
+SRE-1,2007-01-10,PSLV-C7,SSPO (Sun Synchronous Polar Orbit),Experimental,https://www.isro.gov.in/SRE_1.html,https://www.isro.gov.in/media_isro/pdf/Missions/PSLVC7/publication.pdf,unknown,"PSLV-C7 /
+                                          CARTOSAT-2 / SRE-1"
+INSAT-4C,2006-07-10,GSLV-F02,GSO (Geosynchronous Orbit),Communication,https://www.isro.gov.in/INSAT_4C.html,https://www.isro.gov.in/media_isro/pdf/Missions/GSLVF02/GSLV-F02.pdf,"Jul 10, 2006","GSLV-F02 /
+                                          INSAT-4C"
+INSAT-4A,2005-12-22,Ariane5-V169,GSO (Geosynchronous Orbit),Communication,https://www.isro.gov.in/INSAT_4A.html,unknown,Back to ISRO Timeline,Ariane5-V169
+CARTOSAT-1,2005-05-05,PSLV-C6,SSPO (Sun Synchronous Polar Orbit),Earth Observation,https://www.isro.gov.in/CARTOSAT_1.html,https://www.isro.gov.in/media_isro/pdf/Missions/PSLVC6/publication.pdf,unknown,PSLV-C6/CARTOSAT-1/HAMSAT
+HAMSAT,2005-05-05,PSLV-C6,SSPO (Sun Synchronous Polar Orbit),Communication,https://www.isro.gov.in/HAMSAT.html,https://www.isro.gov.in/media_isro/pdf/Missions/PSLVC6/publication.pdf,unknown,PSLV-C6/CARTOSAT-1/HAMSAT
+EDUSAT,2004-09-20,GSLV-F01,GSO (Geosynchronous Orbit),Communication,https://www.isro.gov.in/EDUSAT.html,unknown,"Sep 20, 2004","GSLV-F01 /
+                                          EDUSAT (GSAT-3)"
+IRS-P6 / RESOURCESAT-1,2003-10-17,PSLV-C5,SSPO (Sun Synchronous Polar Orbit),Earth Observation,https://www.isro.gov.in/RESOURCESAT_1.html,unknown,unknown,"PSLV-C5
+                                          /RESOURCESAT-1"
+INSAT-3E,2003-09-28,Ariane5-V162,GSO (Geosynchronous Orbit),Communication,https://www.isro.gov.in/INSAT_3E.html,unknown,Back to ISRO Timeline,Ariane5-V162
+GSAT-2,2003-05-08,GSLV-D2,GSO (Geosynchronous Orbit),Communication,https://www.isro.gov.in/GSAT_2.html,unknown,"May 08, 2003",GSLV-D2 / GSAT-2
+INSAT-3A,2003-04-10,Ariane5-V160,GSO (Geosynchronous Orbit),"Climate & Environment, Communication",https://www.isro.gov.in/INSAT_3A.html,unknown,Back to ISRO Timeline,Ariane5-V160
+KALPANA-1,2002-09-12,PSLV-C4,GSO (Geosynchronous Orbit),"Climate & Environment, Communication",https://www.isro.gov.in/KALPANA_1.html,unknown,unknown,"PSLV-C4
+                                          /KALPANA-1"
+INSAT-3C,2002-01-24,Ariane5-V147,GSO (Geosynchronous Orbit),"Climate & Environment, Communication",https://www.isro.gov.in/INSAT_3C.html,unknown,Back to ISRO Timeline,Ariane5-V147
+"The Technology Experiment Satellite
+                                             (TES)",2001-10-22,PSLV-C3,SSPO (Sun Synchronous Polar Orbit),Earth Observation,https://www.isro.gov.in/TES.html,unknown,unknown,PSLV-C3 / TES
+GSAT-1,2001-04-18,GSLV-D1,GSO (Geosynchronous Orbit),Communication,https://www.isro.gov.in/GSAT_1.html,unknown,"Apr 18, 2001",GSLV-D1 / GSAT-1
+INSAT-3B,2000-03-22,Ariane-5G,GSO (Geosynchronous Orbit),Communication,https://www.isro.gov.in/INSAT_3B.html,unknown,"Back to ISRO
+                                        Timeline",Ariane-5G
+Oceansat(IRS-P4),1999-05-26,PSLV-C2,SSPO (Sun Synchronous Polar Orbit),Earth Observation,https://www.isro.gov.in/Oceansat(IRS_P4).html,unknown,unknown,PSLV-C2/IRS-P4
+INSAT-2E,1999-04-03,Ariane-42P H10-3,GSO (Geosynchronous Orbit),Communication,https://www.isro.gov.in/INSAT_2E.html,unknown,Back to ISRO Timeline,Ariane-42P H10-3
+IRS-1D,1997-09-29,PSLV-C1,SSPO (Sun Synchronous Polar Orbit),Earth Observation,https://www.isro.gov.in/IRS_1D.html,unknown,unknown,PSLV-C1 / IRS-1D
+INSAT-2D,1997-06-04,Ariane-44L H10-3,GSO (Geosynchronous Orbit),Communication,https://www.isro.gov.in/INSAT_2D.html,unknown,Back to ISRO Timeline,Ariane-44L H10-3
+IRS-P3,1996-03-21,PSLV-D3,SSPO (Sun Synchronous Polar Orbit),Earth Observation,https://www.isro.gov.in/IRS_P3.html,unknown,unknown,PSLV-D3 / IRS-P3
+IRS-1C,1995-12-28,Molniya,SSPO (Sun Synchronous Polar Orbit),Earth Observation,https://www.isro.gov.in/IRS_1C.html,unknown,unknown,Molniya
+INSAT-2C,1995-12-07,Ariane-44L H10-3,GSO (Geosynchronous Orbit),Communication,https://www.isro.gov.in/INSAT_2C.html,unknown,unknown,Ariane-44L H10-3
+IRS-P2,1994-10-15,PSLV-D2,SSPO (Sun Synchronous Polar Orbit),Earth Observation,https://www.isro.gov.in/IRS_P2.html,unknown,"Back to ISRO Timeline
+Mission completed during 1997 after serving for 3 years.",PSLV-D2
+SROSS-C2,1994-05-04,ASLV-D4,unknown,Experimental,https://www.isro.gov.in/SROSS_C2.html,unknown,"May 05,1994Back to ISRO Timeline",ASLV-D4
+IRS-1E,1993-09-20,PSLV-D1,LEO (Low Earth Orbit),Earth Observation,https://www.isro.gov.in/IRS_1E.html,unknown,"Apr 18, 2001Back to ISRO Timeline",PSLV-D1
+INSAT-2B,1993-07-23,Ariane-44L H10+,GSO (Geosynchronous Orbit),Communication,https://www.isro.gov.in/INSAT_2B.html,unknown,Back to ISRO Timeline,Ariane-44L H10+
+INSAT-2A,1992-07-10,Ariane-44L H10,GSO (Geosynchronous Orbit),Communication,https://www.isro.gov.in/INSAT_2A.html,unknown,Back to ISRO Timeline,Ariane-44L H10
+SROSS-C,1992-05-20,ASLV-D3,unknown,Experimental,https://www.isro.gov.in/SROSS_C.html,unknown,"May 20,1992Back to ISRO Timeline",ASLV-D3
+IRS-1B,1991-08-29,Vostok,SSPO (Sun Synchronous Polar Orbit),Earth Observation,https://www.isro.gov.in/IRS_1B.html,unknown,"Back to ISRO
+                                            Timeline",Vostok
+INSAT-1D,1990-06-12,Delta 4925,GSO (Geosynchronous Orbit),Communication,https://www.isro.gov.in/INSAT_1D.html,unknown,Back to ISRO Timeline,Delta 4925
+INSAT-1C,1988-07-22,Ariane-3,GSO (Geosynchronous Orbit),Communication,https://www.isro.gov.in/INSAT_1C.html,unknown,Back to ISRO Timeline,Ariane-3
+SROSS-2,1988-07-13,ASLV-D2,unknown,"Earth Observation, Experimental",https://www.isro.gov.in/SROSS_2.html,unknown,"Jul 13,1988Back to ISRO Timeline",ASLV-D2
+IRS-1A,1988-03-17,Vostok,SSPO (Sun Synchronous Polar Orbit),Earth Observation,https://www.isro.gov.in/IRS_1A.html,unknown,Back to ISRO Timeline,Vostok
+SROSS-1,1987-03-24,ASLV-D1,unknown,Experimental,https://www.isro.gov.in/SROSS_1.html,unknown,"Mar 24,1987Back to ISRO Timeline",ASLV-D1
+INSAT-1B,1983-08-30,Shuttle [PAM-D],GSO (Geosynchronous Orbit),Communication,https://www.isro.gov.in/INSAT_1B.html,unknown,Back to ISRO Timeline,Shuttle [PAM-D]
+Rohini Satellite RS-D2,1983-04-17,SLV-3,LEO (Low Earth Orbit),Earth Observation,https://www.isro.gov.in/RohiniSatellite_RS_D2.html,unknown,"Apr 17,1983Back to ISRO Timeline",SLV-3
+INSAT-1A,1982-04-10,Delta,GSO (Geosynchronous Orbit),Communication,https://www.isro.gov.in/INSAT_1A.html,unknown,Back to ISRO Timeline,Delta
+Bhaskara-II,1981-11-20,C-1 Intercosmos,LEO (Low Earth Orbit),"Earth Observation, Experimental",https://www.isro.gov.in/Bhaskara_II.html,unknown,"Apr 17,1983Back to ISRO Timeline",C-1 Intercosmos
+APPLE,1981-06-19,Ariane -1(V-3),GSO (Geosynchronous Orbit),"Communication, Experimental",https://www.isro.gov.in/APPLE.html,unknown,Back to ISRO Timeline,Ariane -1(V-3)
+Rohini Satellite RS-D1,1981-05-31,SLV-3D1,LEO (Low Earth Orbit),Earth Observation,https://www.isro.gov.in/RohiniSatellite_RS_D1.html,unknown,"May 31,1981Back to ISRO Timeline",SLV-3D1
+Rohini Satellite RS-1,1980-07-18,SLV-3E2,unknown,unknown,https://www.isro.gov.in/RohiniSatellite_RS_1.html,unknown,"Jul 18,1980Back to ISRO
+                                            Timeline",SLV-3E2
+"Rohini Technology Payload
+                                             (RTP)",1979-08-10,SLV-3E1,unknown,unknown,https://www.isro.gov.in/RohiniTechnologyPayload.html,unknown,"Aug 10,1979",SLV-3E1
+Bhaskara-I,1979-06-07,C-1Intercosmos,LEO (Low Earth Orbit),"Earth Observation, Experimental",https://www.isro.gov.in/Bhaskara_I.html,unknown,Back to ISRO Timeline,C-1Intercosmos
+Aryabhata,1975-04-19,C-1 Intercosmos,unknown,Experimental,https://www.isro.gov.in/aryabhata_1.html,unknown,Back to ISRO Timeline,C-1 Intercosmos

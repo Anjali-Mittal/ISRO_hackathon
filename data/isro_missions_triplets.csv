@@ -1,0 +1,1213 @@
+"subject","predicate","object"
+"mission/EOS-09","launched_by","vehicle/PSLV-C61"
+"mission/EOS-09","application","application/unknown"
+"mission/EOS-09","orbit_type","orbit/unknown"
+"mission/EOS-09","has_description","unknown"
+"mission/EOS-09","launched_on","2025-05-18"
+"mission/NVS-02","launched_by","vehicle/GSLV-F15"
+"mission/NVS-02","application","application/Navigation"
+"mission/NVS-02","orbit_type","orbit/GTO_(Geosynchronous_Transfer_Orbit)"
+"mission/NVS-02","has_description","January 24, 2025
+GSLV-F15 is the 17thflight of India’s Geosynchronous Satellite Launch Vehicle (GSLV)
+                        and 11thflight with Indigenous Cryo stage.It is the 8thoperational
+                        flight of GSLV with an indigenous Cryogenic stage and 100thLaunch from the India’s
+                        Spaceport Sriharikota.GSLV-F15 payload fairing is a metallic version with a diameter of 3.4
+                        meters.
+ISRO is preparing for its landmark 100thlaunch from Sriharikota. GSLV F15 will lift-off from
+                        the second launch pad at 06:23 hrs on January 29, 2025, carrying the NVS-02 navigation satellite.
+                        This will be the 100thlaunch to lift-off from Sriharikota. Over a span of 99 launches, various
+                        missions have been carried out from Sriharikota.Click here for the details of the 99 missionsPDF - 204 KB
+The GSLV-F15 with indigenous Cryogenic stage will place NVS-02 satellite
+                        into a Geosynchronous Transfer Orbit & the launch will take place from the Second Launch Pad
+                        (SLP) at Satish Dhawan Space Centre, SHAR.
+Navigation with Indian Constellation (NavIC) is India's independent regional
+                    navigation satellite system designed to provide accurate Position, Velocity and Timing (PVT) service
+                    to users in India as well as to region extending about 1500 km beyond Indian land mass.
+NavIC will provide two types of services, namely, Standard Positioning Service
+                    (SPS) and Restricted Service (RS). NavIC's SPS provides a position accuracy of better than 20 m (2σ)
+                    and timing accuracy better than 40 ns (2σ) over the service area.
+ISRO successfully completed a century in the launches from its spaceport at Sriharikota on January 29, 2025 with the 17thlaunch of GSLV. In this mission NVS-02 navigation satellite was successfully injected into the intended Geosynchronous Transfer Orbit. All the launch vehicle stages performed flawlessly and the orbit was achieved with a high degree of precision.
+Subsequent to the launch, the solar panels on board the satellite were successfully deployed and power generation is nominal. Communication with the ground station has been established. But the orbit raising operations towards positioning the satellite to the designated orbital slot could not be carried out as the valves for admitting the oxidizer to fire the thrusters for orbit raising did not open.
+The satellite systems are healthy and the satellite is currently in elliptical orbit. Alternate mission strategies for utilising the satellite for navigation in an elliptical orbit is being worked out."
+"mission/NVS-02","launched_on","2025-01-29"
+"mission/NVS-02","has_brochure","document/pdf/GSLV-F15_NVS-02_EngBrochure240125.pdf"
+"mission/NVS-02","has_details_page","document/web/GSLV-F15_NVS-02_Mission.html"
+"mission/SPADEX-A","launched_by","vehicle/PSLV_C60"
+"mission/SPADEX-A","application","application/Navigation"
+"mission/SPADEX-A","orbit_type","orbit/SSO"
+"mission/SPADEX-A","has_description","December 21, 2024
+SpaDeX mission is a cost-effective technology demonstrator mission for the demonstration of in-space
+                    docking using two small spacecraft launched by PSLV. This technology is essential for India's space
+                    ambitions such as Indian on Moon, sample return from the Moon, the building and operation of
+                    Bharatiya Antariksh Station (BAS), etc. In-space docking technology is essential when multiple
+                    rocket launches are required to achieve common mission objectives. Through this mission, India is
+                    marching towards becoming the fourth country in the world to have space docking technology.
+The primary objective of the SpaDeX mission is to develop and demonstrate the technology needed for
+                    rendezvous, docking, and undocking of two small spacecraft (SDX01, which is the Chaser, and SDX02,
+                    the Target, nominally) in a low-Earth circular orbit. Secondary objectives include:
+The SpaDeX mission consists of two small spacecraft (about 220 kg each) to be launched by PSLV-C60,
+                    independently and simultaneously, into a 470 km circular orbit at 55° inclination, with a local time
+                    cycle of about 66 days. The demonstrated precision of the PSLV vehicle will be utilized to give a
+                    small relative velocity between the Target and Chaser spacecraft at the time of separation from the
+                    launch vehicle. This incremental velocity will allow the Target spacecraft to build a 10-20 km
+                    inter-satellite separation with respect to the Chaser within a day. At this point, the relative
+                    velocity between the Target will be compensated using the propulsion system of the Target
+                    spacecraft.
+At the end of this drift arrest maneuver, the Target and Chaser will be in the same orbit with
+                    identical velocity but separated by about 20 km, known as Far Rendezvous. With a similar strategy of
+                    introducing and then compensating for a small relative velocity between the two spacecraft, the
+                    Chaser will approach the Target with progressively reduced inter-satellite distances of 5 km, 1.5
+                    km, 500 m, 225 m, 15 m, and 3 m, ultimately leading to the docking of the two spacecraft. After
+                    successful docking and rigidization, electrical power transfer between the two satellites will be
+                    demonstrated before undocking and separation of the two satellites to start the operation of their
+                    respective payloads for the expected mission life of up to two years.
+The indigenous technologies developed for enabling this docking mission are as follows:
+In addition, SpaDeX, because of its small size and mass, is even more challenging due to the finer
+                    precision required for the rendezvous and docking maneuvers compared to docking two large
+                    spacecraft. This mission will be a forerunner for autonomous docking needed for future lunar
+                    missions like Chandrayaan-4 without the support of GNSS from Earth.
+The docking mechanism is a low-impact docking system (approach velocity is in the order of 10 mm/s),
+                    androgynous (docking systems are identical for both spacecraft, Chaser & Target), and is a
+                    peripheral docking system (concept similar to the International Docking System Standard used by
+                    other agencies for human missions). The mechanism is smaller (450 mm) with one degree of freedom for
+                    extension and uses two motors compared to the IDSS (800 mm) on a hexapod with 24 motors. Multiple
+                    test beds were established to test the hardware and software simulation of the docking kinematics to
+                    verify and finalise the docking approach parameters.
+The additional sensor suite in this mission includes Laser Range Finder (LRF) and Corner Cube Retro
+                    Reflectors to work for a range of 6000 to 200 m for determining range (R). The set of Rendezvous
+                    Sensors (RS) is used in the range of 2000 to 250 m and from 250-10 m. RS provides the relative
+                    position (x, y, z) while LRF determines both relative position and velocity independently.
+Proximity and Docking Sensor (PDS) provides relative position and velocity over a range of 30 m to
+                    0.4 m. Laser Diodes (LDs) are used as targets for RS & PDS. A video monitor is used in the 20 to 0.5
+                    m range and it will capture the video of the docking event. A Mechanism Entry Sensor (MES) is used
+                    from 8 cm to 4 cm to detect chaser entry into the target spacecraft during docking. Multiple test
+                    beds were used to calibrate and validate these sensors before accepting them for the mission.
+Like all ISRO satellites in low-Earth orbit, both the SpaDeX spacecraft carry a differential
+                    GNSS-based Satellite Positioning System (SPS), which provides PNT (Position, Navigation, and Timing)
+                    solutions for the satellites. In SpaDeX, a novel RODP processor is included in the SPS receiver,
+                    which allows accurate determination of the relative position and velocity of the Chaser and the
+                    Target. By subtracting the carrier phase measurements from the same GNSS satellites in both Chaser
+                    and Target SPS receivers, highly accurate relative states of the two satellites are determined. The
+                    VHF/UHF transceivers in both satellites aid this process by transferring the GNSS satellite
+                    measurements from one satellite to the other. Hardware and software test beds, including closed-loop
+                    verifications, were carried out to characterise the RODP performance.
+Up to an inter-satellite distance (ISD) of 5 km, standard orbit maintenance and attitude control
+                    algorithms employed in ISRO LEO spacecraft are used. As the spacecraft are in circular orbit, and
+                    any addition or reduction of velocity to the satellites will result in orbit change, the V-bar
+                    strategy using n-Pulse, Glideslope and PV guidance algorithms are employed to reduce the ISD between
+                    the satellites, hold at fixed ISDs to evaluate the sensors and software, and finally docking. These
+                    algorithms were converted into software for achieving the rendezvous and docking. These software
+                    solutions were tested and validated in multiple digital, hardware-in-loop, onboard-in-loop,
+                    software-in-loop, and robotic simulations.
+After the docking and undocking events, the spacecrafts will be separated and used for application
+                    missions.
+The SpaDeX spacecraft were designed and realized by the UR Rao Satellite Centre (URSC) with the
+                    support of other ISRO centers (VSSC, LPSC, SAC, IISU, and LEOS). The spacecraft, in its orbital
+                    phase, will be controlled from ISTRAC using ISRO ground stations and other externally hired ground
+                    stations. The full integration and testing of the satellite were carried out at M/s Ananth
+                    Technologies, Bangalore, under the supervision of URSC. Presently, after completing all tests and
+                    clearances, the spacecraft has moved from URSC to SDSC and is undergoing preparations for launch."
+"mission/SPADEX-A","launched_on","2024-12-30"
+"mission/SPADEX-A","has_brochure","document/pdf/PSLVC60-mission-brochure-english.pdf"
+"mission/SPADEX-A","has_details_page","document/web/mission_SpaDeX.html"
+"mission/SPADEX-B","launched_by","vehicle/PSLV_C60"
+"mission/SPADEX-B","application","application/Navigation"
+"mission/SPADEX-B","orbit_type","orbit/SSO"
+"mission/SPADEX-B","has_description","December 21, 2024
+SpaDeX mission is a cost-effective technology demonstrator mission for the demonstration of in-space
+                    docking using two small spacecraft launched by PSLV. This technology is essential for India's space
+                    ambitions such as Indian on Moon, sample return from the Moon, the building and operation of
+                    Bharatiya Antariksh Station (BAS), etc. In-space docking technology is essential when multiple
+                    rocket launches are required to achieve common mission objectives. Through this mission, India is
+                    marching towards becoming the fourth country in the world to have space docking technology.
+The primary objective of the SpaDeX mission is to develop and demonstrate the technology needed for
+                    rendezvous, docking, and undocking of two small spacecraft (SDX01, which is the Chaser, and SDX02,
+                    the Target, nominally) in a low-Earth circular orbit. Secondary objectives include:
+The SpaDeX mission consists of two small spacecraft (about 220 kg each) to be launched by PSLV-C60,
+                    independently and simultaneously, into a 470 km circular orbit at 55° inclination, with a local time
+                    cycle of about 66 days. The demonstrated precision of the PSLV vehicle will be utilized to give a
+                    small relative velocity between the Target and Chaser spacecraft at the time of separation from the
+                    launch vehicle. This incremental velocity will allow the Target spacecraft to build a 10-20 km
+                    inter-satellite separation with respect to the Chaser within a day. At this point, the relative
+                    velocity between the Target will be compensated using the propulsion system of the Target
+                    spacecraft.
+At the end of this drift arrest maneuver, the Target and Chaser will be in the same orbit with
+                    identical velocity but separated by about 20 km, known as Far Rendezvous. With a similar strategy of
+                    introducing and then compensating for a small relative velocity between the two spacecraft, the
+                    Chaser will approach the Target with progressively reduced inter-satellite distances of 5 km, 1.5
+                    km, 500 m, 225 m, 15 m, and 3 m, ultimately leading to the docking of the two spacecraft. After
+                    successful docking and rigidization, electrical power transfer between the two satellites will be
+                    demonstrated before undocking and separation of the two satellites to start the operation of their
+                    respective payloads for the expected mission life of up to two years.
+The indigenous technologies developed for enabling this docking mission are as follows:
+In addition, SpaDeX, because of its small size and mass, is even more challenging due to the finer
+                    precision required for the rendezvous and docking maneuvers compared to docking two large
+                    spacecraft. This mission will be a forerunner for autonomous docking needed for future lunar
+                    missions like Chandrayaan-4 without the support of GNSS from Earth.
+The docking mechanism is a low-impact docking system (approach velocity is in the order of 10 mm/s),
+                    androgynous (docking systems are identical for both spacecraft, Chaser & Target), and is a
+                    peripheral docking system (concept similar to the International Docking System Standard used by
+                    other agencies for human missions). The mechanism is smaller (450 mm) with one degree of freedom for
+                    extension and uses two motors compared to the IDSS (800 mm) on a hexapod with 24 motors. Multiple
+                    test beds were established to test the hardware and software simulation of the docking kinematics to
+                    verify and finalise the docking approach parameters.
+The additional sensor suite in this mission includes Laser Range Finder (LRF) and Corner Cube Retro
+                    Reflectors to work for a range of 6000 to 200 m for determining range (R). The set of Rendezvous
+                    Sensors (RS) is used in the range of 2000 to 250 m and from 250-10 m. RS provides the relative
+                    position (x, y, z) while LRF determines both relative position and velocity independently.
+Proximity and Docking Sensor (PDS) provides relative position and velocity over a range of 30 m to
+                    0.4 m. Laser Diodes (LDs) are used as targets for RS & PDS. A video monitor is used in the 20 to 0.5
+                    m range and it will capture the video of the docking event. A Mechanism Entry Sensor (MES) is used
+                    from 8 cm to 4 cm to detect chaser entry into the target spacecraft during docking. Multiple test
+                    beds were used to calibrate and validate these sensors before accepting them for the mission.
+Like all ISRO satellites in low-Earth orbit, both the SpaDeX spacecraft carry a differential
+                    GNSS-based Satellite Positioning System (SPS), which provides PNT (Position, Navigation, and Timing)
+                    solutions for the satellites. In SpaDeX, a novel RODP processor is included in the SPS receiver,
+                    which allows accurate determination of the relative position and velocity of the Chaser and the
+                    Target. By subtracting the carrier phase measurements from the same GNSS satellites in both Chaser
+                    and Target SPS receivers, highly accurate relative states of the two satellites are determined. The
+                    VHF/UHF transceivers in both satellites aid this process by transferring the GNSS satellite
+                    measurements from one satellite to the other. Hardware and software test beds, including closed-loop
+                    verifications, were carried out to characterise the RODP performance.
+Up to an inter-satellite distance (ISD) of 5 km, standard orbit maintenance and attitude control
+                    algorithms employed in ISRO LEO spacecraft are used. As the spacecraft are in circular orbit, and
+                    any addition or reduction of velocity to the satellites will result in orbit change, the V-bar
+                    strategy using n-Pulse, Glideslope and PV guidance algorithms are employed to reduce the ISD between
+                    the satellites, hold at fixed ISDs to evaluate the sensors and software, and finally docking. These
+                    algorithms were converted into software for achieving the rendezvous and docking. These software
+                    solutions were tested and validated in multiple digital, hardware-in-loop, onboard-in-loop,
+                    software-in-loop, and robotic simulations.
+After the docking and undocking events, the spacecrafts will be separated and used for application
+                    missions.
+The SpaDeX spacecraft were designed and realized by the UR Rao Satellite Centre (URSC) with the
+                    support of other ISRO centers (VSSC, LPSC, SAC, IISU, and LEOS). The spacecraft, in its orbital
+                    phase, will be controlled from ISTRAC using ISRO ground stations and other externally hired ground
+                    stations. The full integration and testing of the satellite were carried out at M/s Ananth
+                    Technologies, Bangalore, under the supervision of URSC. Presently, after completing all tests and
+                    clearances, the spacecraft has moved from URSC to SDSC and is undergoing preparations for launch."
+"mission/SPADEX-B","launched_on","2024-12-30"
+"mission/SPADEX-B","has_brochure","document/pdf/PSLVC60-mission-brochure-english.pdf"
+"mission/SPADEX-B","has_details_page","document/web/mission_SpaDeX.html"
+"mission/Proba-3","launched_by","vehicle/PSLV-C59"
+"mission/Proba-3","application","application/unknown"
+"mission/Proba-3","orbit_type","orbit/unknown"
+"mission/Proba-3","has_description","December 02, 2024
+PSLV-C59 vehicle carried Proba-3 spacecraft into a highly elliptical orbit as a Dedicated commercial mission of NewSpace India Limited (NSIL) on December 05, 2024 at 16:04 Hrs.
+Proba-3 is an In-Orbit Demonstration (IOD) mission of the European Space Agency. The mission goal is to demonstrate precise formation flying. It consists of 2 spacecrafts viz. the Coronagraph Spacecraft (CSC) and the Occulter Spacecraft (OSC) and it will be launched together in a stacked configuration. Launch is planned from First Launch Pad (FLP), Satish Dhawan Space Centre (SDSC-SHAR), Sriharikota.
+PSLV-C59 Vehicle Characteristics"
+"mission/Proba-3","launched_on","2024-12-05"
+"mission/Proba-3","has_brochure","document/pdf/PSLV_C59_Brochure.pdf"
+"mission/Proba-3","has_details_page","document/web/PSLV_C59_PROBA-3_Mission.html"
+"mission/GSAT-N2","launched_by","vehicle/Falcon-9"
+"mission/GSAT-N2","application","application/Communication"
+"mission/GSAT-N2","orbit_type","orbit/GSO_(Geosynchronous_Orbit)"
+"mission/GSAT-N2","has_description","November 28, 2024
+GSAT-N2 had reached its final Geostationary orbit and is slowly drifting to its final orbital slot of 68 deg E longitude in a weeks’ time. Weighing 4700 kg, GSAT-N2 is a high-throughput satellite (HTS) operating in the Ka-Ka band, with a capacity of 48 Gbps. It is designed to meet broadband and in-flight connectivity needs across India. The satellite features 32 spot beams, ensuring nationwide coverage, including the remote regions of the Andaman & Nicobar and Lakshadweep Islands. The satellite was developed by UR Rao Satellite Centre with communication payloads from Space Application Centre, ISRO for NSIL. GSAT-N2 satellite is the second demand-driven communication satellite mission undertaken by New Space India Limited (NSIL), a Government of India enterprise under the Department of Space (DoS).
+Launch:
+GSAT-N2 was successfully launched on November 19, 2024, aboard a Falcon-9 rocket from Cape Canaveral Space Force Station, Florida, USA. The launcher placed spacecraft into a Super Geo-synchronous Transfer Orbit (GTO) with a perigee of 250 km, apogee of 59,730 km and an orbital Inclination of 27.5 degree.
+Satellite Control:
+After separation from the launcher, ISRO's Master Control Facility (MCF) at Hassan took over the operations. Initial data confirmed good health and stability of the satellite. The satellite's orbit was raised from GTO to Geo-Stationary Orbit (GSO) using its onboard chemical propulsion system developed by LPSC, ISRO while being controlled by MCF. Later all the three reflectors of the antennae were deployed successfully. The final trimming of the orbit by the propulsion system was completed and the system was safely isolated. Based on the propulsion system performance, there is adequate fuel left in the spacecraft to ensure its full operational life.
+Next Steps:
+The satellite will undergo elaborate In-Orbit Testing (IOT) in the coming days along with the ground communication infrastructure to verify the operation and performance of the communication payloads. Operational services are expected to commence from 68° East longitude after successful testing."
+"mission/GSAT-N2","launched_on","2024-11-19"
+"mission/GSAT-N2","has_details_page","document/web/GSAT-N2_mission.html"
+"mission/EOS-08","launched_by","vehicle/SSLV-D3"
+"mission/EOS-08","application","application/unknown"
+"mission/EOS-08","orbit_type","orbit/unknown"
+"mission/EOS-08","has_description","August 08, 2024
+The third developmental flight of SSLV is successfully launched on August 16, 2024.
+This flight completes the SSLV Development Project and enables  operational missions by Indian industry and NSIL."
+"mission/EOS-08","launched_on","2024-08-16"
+"mission/EOS-08","has_brochure","document/pdf/SSLV-D3_Mission_Brochure130824.pdf"
+"mission/EOS-08","has_details_page","document/web/Mission_SSLV_D3.html"
+"mission/INSAT-3DS","launched_by","vehicle/GSLV-F14"
+"mission/INSAT-3DS","application","application/Climate_&_Environment"
+"mission/INSAT-3DS","orbit_type","orbit/GTO_(Geosynchronous_Transfer_Orbit)"
+"mission/INSAT-3DS","has_description","February 8, 2024
+The launch of the GSLV-F14/INSAT-3DS mission is accomplished on Saturday, February 17, 2024, at 17:30 Hrs. IST from SDSC-SHAR, Sriharikota. In its 16th mission, the GSLV aims at deploying the INSAT-3DS meteorological satellite into the Geosynchronous Transfer Orbit (GTO). Subsequent orbit-raising maneuvers will ensure that the satellite is positioned in a Geo-stationary Orbit.
+Geosynchronous Satellite Launch Vehicle (GSLV) is a three-stage 51.7 m long launch vehicle having a liftoff mass of 420 tonnes. The first stage (GS1) comprises a solid propellant (S139) motor having 139-ton propellant and four earth-storable propellant stages (L40) strapons which carry 40 tons of liquid propellant in each. The second stage (GS2) is also an earth-storable propellant stage loaded with 40-ton propellant. The third stage (GS3) is a cryogenic stage with a 15-ton propellant loading of liquid oxygen (LOX) and liquid hydrogen (LH2). During the atmospheric regime, the Satellite is protected by Ogive payload fairing. GSLV can be used to launch a variety of spacecraft capable of performing communications, navigation, earth resource surveys, and any other proprietary mission.
+INSAT-3DS Satellite is a follow-on mission of Third Generation Meteorological Satellite from Geostationary Orbit. GSLV-F14/INSAT-3DS mission is fully funded by the Ministry of Earth Sciences (MoES). It is designed for enhanced meteorological observations and monitoring of land and ocean surfaces for weather forecasting and disaster warning. The satellite will augment the Meteorological services along with the presently operational INSAT-3D and INSAT-3DR satellites. Indian Industries have significantly contributed to the making of the Satellite.
+Various departments of the Ministry of Earth Sciences (MoES) such as the India Meteorology Department (IMD), National Centre for Medium-Range Weather Forecasting (NCMRWF), Indian Institute of Tropical Meteorology (IITM), National Institute of Ocean Technology (NIOT), Indian National Center for Ocean Information Services (INCOIS) and various other agencies and institutes will be using the INSAT-3DS Satellite data to provide improved weather forecasts and meteorological services.
+Satellite salient features"
+"mission/INSAT-3DS","launched_on","2024-02-17"
+"mission/INSAT-3DS","has_brochure","document/pdf/GSLVF14-INSAT-3DS_Brochure_English.pdf"
+"mission/INSAT-3DS","has_details_page","document/web/GSLV-F14_INSAT-3DS_mission.html"
+"mission/XPoSat","launched_by","vehicle/PSLV-C58"
+"mission/XPoSat","application","application/X-ray_Astronomy"
+"mission/XPoSat","orbit_type","orbit/Low-inclination_circular_orbit"
+"mission/XPoSat","has_description","unknown"
+"mission/XPoSat","launched_on","2024-01-01"
+"mission/XPoSat","has_brochure","document/pdf/PSLV_C58_Brochure.pdf"
+"mission/XPoSat","has_details_page","document/web/XPoSat.html"
+"mission/Aditya-L1","launched_by","vehicle/PSLV-C57"
+"mission/Aditya-L1","application","application/Planetary_Observation"
+"mission/Aditya-L1","orbit_type","orbit/Lunar"
+"mission/Aditya-L1","has_description","September 1, 2023
+Aditya-L1 is a satellite dedicated to the comprehensive study of the Sun. It has 7 distinct payloads developed, all developed indigenously. Five by ISRO and two by Indian academic institutes in collaboration with ISRO.
+Aditya in Sanskrit means the Sun. L1 here refers to Lagrange Point 1 of the Sun-Earth system. For common understanding, L1 is a location in space where the gravitational forces of two celestial bodies, such as the Sun and Earth, are in equilibrium. This allows an object placed there to remain relatively stable with respect to both celestial bodies.
+Following its scheduled launch on September 2, 2023, Aditya-L1 stays Earth-bound orbits for 16 days, during which it undergoes 5 maneuvres to gain the necessary velocity for its journey. Subsequently, Aditya-L1 undergoes a Trans-Lagrangian1 insertion maneuvre, marking the beginning of its 110-day trajectory to the destination around the L1 Lagrange point. Upon arrival at the L1 point, another maneuvre binds Aditya-L1 to an orbit around L1, a balanced gravitational location between the Earth and the Sun. The satellite spends its whole mission life orbiting around L1 in an irregularly shaped orbit in a plane roughly perpendicular to the line joining the Earth and the Sun.
+The strategic placement at the L1 Lagrange point ensures that Aditya-L1 can maintain a constant, uninterrupted view of the Sun. This location also allows the satellite to access solar radiation and magnetic storms before they are influenced by Earth's magnetic field and atmosphere. Additionally, the L1 point’s gravitational stability minimizes the need for frequent orbital maintenance efforts, optimizing the satellite's operational efficiency.
+Quick Facts: Aditya-L1 will stay approximately 1.5 million km away from Earth, directed towards the Sun, which is about 1% of the Earth-Sun distance. The Sun is a giant sphere of gas and Aditya-L1 would study the outer atmosphere of the Sun. Aditya-L1 will neither land on the Sun nor approach the Sun any closer."
+"mission/Aditya-L1","launched_on","2023-09-02"
+"mission/Aditya-L1","has_brochure","document/pdf/AdityaL1_Mission_Brochure.pdf"
+"mission/Aditya-L1","has_details_page","document/web/Aditya_L1-MissionDetails.html"
+"mission/Chandrayaan-3","launched_by","vehicle/LVM3_M4"
+"mission/Chandrayaan-3","application","application/Planetary_Observation"
+"mission/Chandrayaan-3","orbit_type","orbit/Lunar"
+"mission/Chandrayaan-3","has_description","Chandrayaan-3 is a follow-on mission to Chandrayaan-2 to demonstrate end-to-end capability in safe landing and roving on the lunar surface. It consists of Lander and Rover configuration. It will be launched by LVM3 from SDSC SHAR, Sriharikota. The propulsion module will carry the lander and rover configuration till 100 km lunar orbit. The propulsion module has Spectro-polarimetry of Habitable Planet Earth (SHAPE) payload to study the spectral and Polari metric measurements of Earth from the lunar orbit.
+Lander payloads:Chandra’s Surface Thermophysical Experiment (ChaSTE) to measure the thermal conductivity and temperature; Instrument for Lunar Seismic Activity (ILSA) for measuring the seismicity around the landing site; Langmuir Probe (LP) to estimate the plasma density and its variations. A passive Laser Retroreflector Array from NASA is accommodated for lunar laser ranging studies.
+Rover payloads:Alpha Particle X-ray Spectrometer (APXS) and Laser Induced Breakdown Spectroscope (LIBS) for deriving the elemental composition in the vicinity of landing site.
+Chandrayaan-3 consists of an indigenous Lander module (LM), Propulsion module (PM) and a Rover with an objective of developing and demonstrating new technologies required for Inter planetary missions. The Lander will have the capability to soft land at a specified lunar site and deploy the Rover which will carry out in-situ chemical analysis of the lunar surface during the course of its mobility. The Lander and the Rover have scientific payloads to carry out experiments on the lunar surface.  The main function of PM is to carry the LM from launch vehicle injection till final lunar 100 km circular polar orbit and separate the LM from PM.   Apart from this, the Propulsion Module also has one scientific payload as a value addition which will be operated post separation of Lander Module. The launcher identified for Chandrayaan-3 is LVM3 M4 which will place the integrated module in an Elliptic Parking Orbit (EPO) of size ~170 x 36500 km.
+The mission objectives of Chandrayaan-3 are:
+
+To achieve the mission objectives, several advanced technologies are present in Lander such as,
+
+To demonstrate the above said advanced technologies in earth condition, several Lander special tests have been planned and carried out successfully viz.
+The overall specifications for Chandrayaan-3 is provided below:
+The objectives of scientific payloads planned on Chandrayaan-3 Lander Module and Rover are provided below:
+Three dimensional views of Chandrayaan-3 modules are provided below:"
+"mission/Chandrayaan-3","launched_on","2023-07-14"
+"mission/Chandrayaan-3","has_brochure","document/pdf/LVM3M4_Chandrayaan3_brochure.pdf"
+"mission/Chandrayaan-3","has_details_page","document/web/Chandrayaan3_Details.html"
+"mission/NVS-01","launched_by","vehicle/GSLV-F12"
+"mission/NVS-01","application","application/Navigation"
+"mission/NVS-01","orbit_type","orbit/GEO"
+"mission/NVS-01","has_description","May 22, 2023
+
+GSLV-F12/NVS-01 mission is accomplished successfully on Monday, May 29, 2023.  This Geosynchronous Satellite Launch Vehicle (GSLV) mission deployed NVS-01 navigation satellite, weighing about 2232 kg, into a Geosynchronous Transfer Orbit. The vehicle lifted off at 10:42 hours IST from the second launch pad at SDSC-SHAR, Sriharikota and injected the satellite after about 19 minutes of flight.
+NVS-01 is the first of the second-generation satellites envisaged for the Navigation with Indian Constellation (NavIC) services. NVS series of satellites will sustain and augment the NavIC with enhanced features. This series incorporates L1 band signals additionally to widen the services. For the first time, an indigenous atomic clock will be flown in NVS-01."
+"mission/NVS-01","launched_on","2023-05-29"
+"mission/NVS-01","has_brochure","document/pdf/GSLVF12_NVS01_Mission.pdf"
+"mission/NVS-01","has_details_page","document/web/GSLV_F12_Landingpage.html"
+"mission/EOS-07","launched_by","vehicle/SSLV-D2"
+"mission/EOS-07","application","application/Earth_Observation"
+"mission/EOS-07","orbit_type","orbit/unknown"
+"mission/EOS-07","has_description","Feb 22, 2023
+
+Mission Parameter:
+
+Structure:
+
+Structure:
+
+Thermal Control:
+
+Mechanism:
+
+Power:
+
+Sensors:
+
+Actuators:
+
+AOCS:
+
+Onboard Computer:
+
+RF System:
+
+Data Handling & Storage:
+
+Major Payloads: -"
+"mission/EOS-07","launched_on","2023-02-10"
+"mission/EOS-07","has_details_page","document/web/EOS_07.html"
+"mission/INS-2B","launched_by","vehicle/PSLV-C54"
+"mission/INS-2B","application","application/Earth_Observation"
+"mission/INS-2B","orbit_type","orbit/unknown"
+"mission/INS-2B","has_description","Nov 22, 2022Back to ISRO
+                                        Timeline
+Global false colour composite mosaic generated from EOS-06 data
+
+EOS-6 is the third-generation satellite
+in the Oceansat series. This is to provide
+continuity services of Oceansat-2
+spacecraft with enhanced payload
+specifications as well as application areas."
+"mission/INS-2B","launched_on","2022-11-26"
+"mission/INS-2B","has_brochure","document/pdf/PSLVC54_EOS6_BrochureV4.pdf"
+"mission/INS-2B","has_details_page","document/web/EOS_06.html#eos"
+"mission/EOS-06","launched_by","vehicle/PSLV-C54"
+"mission/EOS-06","application","application/Earth_Observation"
+"mission/EOS-06","orbit_type","orbit/unknown"
+"mission/EOS-06","has_description","Nov 22, 2022Back to ISRO
+                                        Timeline
+Global false colour composite mosaic generated from EOS-06 data
+
+EOS-6 is the third-generation satellite
+in the Oceansat series. This is to provide
+continuity services of Oceansat-2
+spacecraft with enhanced payload
+specifications as well as application areas."
+"mission/EOS-06","launched_on","2022-11-26"
+"mission/EOS-06","has_brochure","document/pdf/PSLVC54_EOS6_BrochureV4.pdf"
+"mission/EOS-06","has_details_page","document/web/EOS_06.html"
+"mission/EOS-02","launched_by","vehicle/SSLV-D1"
+"mission/EOS-02","application","application/Earth_Observation"
+"mission/EOS-02","orbit_type","orbit/unknown"
+"mission/EOS-02","has_description","Aug 07, 2022
+EOS-02 is an earth observation satellite designed and realised by ISRO. This microsat series satellite offers advanced optical remote sensing operating in infra-red band with high spatial resolution. The bus configuration is derived from IMS-1 bus.
+प्रमोचक राकेट / Launch Vehicle:SSLV-D1/EOS-02 Missionउपग्रह का प्रकार / Type of Satellite:Earth Observationनिर्माता / Manufacturer:ISROस्‍वामी / Owner:ISROअनुप्रयोग / Application:Earth Observation"
+"mission/EOS-02","launched_on","2022-08-07"
+"mission/EOS-02","has_brochure","document/pdf/sslvd1-eos2_-_mission_brochure.pdf"
+"mission/EOS-02","has_details_page","document/web/mission_EOS_02.html"
+"mission/GSAT-24","launched_by","vehicle/Ariane-V(VS257)"
+"mission/GSAT-24","application","application/Communication"
+"mission/GSAT-24","orbit_type","orbit/GSO_(Geosynchronous_Orbit)"
+"mission/GSAT-24","has_description","unknown"
+"mission/GSAT-24","launched_on","2022-06-23"
+"mission/GSAT-24","has_details_page","document/web/GSAT_24.html"
+"mission/INS-2TD","launched_by","vehicle/PSLV-C52"
+"mission/INS-2TD","application","application/Experimental"
+"mission/INS-2TD","orbit_type","orbit/unknown"
+"mission/INS-2TD","has_description","INS-2TD a technology demonstrator satellite from ISRO, which is a
+                                    precursor to India-Bhutan Joint Satellite (INS-2B).
+प्रमोचक राकेट / Launch Vehicle:PSLV-C52/EOS-04 Missionउपग्रह का प्रकार / Type of Satellite:Experimentalनिर्माता / Manufacturer:ISROस्‍वामी / Owner:ISROअनुप्रयोग / Application:Experimental"
+"mission/INS-2TD","launched_on","2022-02-14"
+"mission/INS-2TD","has_brochure","document/pdf/pslv-c52-eos-04-v4.pdf"
+"mission/INS-2TD","has_details_page","document/web/mission_PSLV_C52_INS_2TD.html"
+"mission/EOS-04","launched_by","vehicle/PSLV-C52"
+"mission/EOS-04","application","application/Earth_Observation"
+"mission/EOS-04","orbit_type","orbit/unknown"
+"mission/EOS-04","has_description","EOS-04 is a Radar Imaging Satellite designed to provide high quality
+                                    images under all weather conditions for applications such as
+                                    Agriculture, Forestry & Plantations, Soil Moisture & Hydrology and Flood
+                                    mapping.
+प्रमोचक राकेट / Launch Vehicle:PSLV-C52/EOS-04 Missionउपग्रह का प्रकार / Type of Satellite:Earth Observationअनुप्रयोग / Application:Earth Observation"
+"mission/EOS-04","launched_on","2022-02-14"
+"mission/EOS-04","has_brochure","document/pdf/pslv-c52-eos-04-v4.pdf"
+"mission/EOS-04","has_details_page","document/web/mission_PSLV_C52_EOS_04.html"
+"mission/EOS-03","launched_by","vehicle/GSLV-F10"
+"mission/EOS-03","application","application/Earth_Observation"
+"mission/EOS-03","orbit_type","orbit/GTO_(Geosynchronous_Transfer_Orbit)"
+"mission/EOS-03","has_description","Aug 12, 2021Back to ISRO Timeline"
+"mission/EOS-03","launched_on","2021-08-12"
+"mission/EOS-03","has_brochure","document/pdf/gslv_f10_eos-03_mission_brochure.pdf"
+"mission/EOS-03","has_details_page","document/web/EOS_03.html"
+"mission/CMS-01","launched_by","vehicle/PSLV-C50"
+"mission/CMS-01","application","application/Communication"
+"mission/CMS-01","orbit_type","orbit/GSO_(Geosynchronous_Orbit)"
+"mission/CMS-01","has_description","CMS-01 is a communication satellite envisaged for providing services in
+                                    Extended-C Band of the frequency spectrum. The Extended-C Band coverage
+                                    will include Indian mainland, Andaman-Nicobar & Lakshadweep Islands.
+                                    CMS-01 is the 42nd Communication Satellite of India.
+मिशन कालावधि / Mission Life:7 yearsप्रमोचक राकेट / Launch Vehicle:PSLV-C50/CMS-01उपग्रह का प्रकार / Type of Satellite:Communicationनिर्माता / Manufacturer:ISROस्‍वामी / Owner:ISROअनुप्रयोग / Application:Communicationकक्षा का प्रकार / Orbit Type:GSO (Geosynchronous Orbit)"
+"mission/CMS-01","launched_on","2020-12-17"
+"mission/CMS-01","has_brochure","document/pdf/pslv-c50_cms-01_mission_-_brochure_-_ver_8.pdf"
+"mission/CMS-01","has_details_page","document/web/mission_PSLV_C50_CMS_01.html"
+"mission/EOS-01","launched_by","vehicle/PSLV-C49"
+"mission/EOS-01","application","application/Disaster_Management_System,_Earth_Observation"
+"mission/EOS-01","orbit_type","orbit/LEO_(Low_Earth_Orbit)"
+"mission/EOS-01","has_description","EOS-01 is an earth observation satellite, intended for applications in
+                                    agriculture, forestry and disaster management support.
+प्रमोचक राकेट / Launch Vehicle:PSLV-C49/EOS-01उपग्रह का प्रकार / Type of Satellite:Earth Observationनिर्माता / Manufacturer:ISROस्‍वामी / Owner:ISROअनुप्रयोग / Application:Disaster Management System Earth
+                                    Observationकक्षा का प्रकार / Orbit Type:LEO (Low Earth Orbit)"
+"mission/EOS-01","launched_on","2020-11-07"
+"mission/EOS-01","has_brochure","document/pdf/PSLV-C49%20EOS-01%20Mission.pdf"
+"mission/EOS-01","has_details_page","document/web/mission_PSLV_C49_EOS_01.html"
+"mission/GSAT-30","launched_by","vehicle/Ariane-5_VA-251"
+"mission/GSAT-30","application","application/Communication"
+"mission/GSAT-30","orbit_type","orbit/GSO_(Geosynchronous_Orbit)"
+"mission/GSAT-30","has_description","Back to ISRO Timeline"
+"mission/GSAT-30","launched_on","2020-01-17"
+"mission/GSAT-30","has_details_page","document/web/GSAT_30.html"
+"mission/RISAT-2BR1","launched_by","vehicle/PSLV-C48"
+"mission/RISAT-2BR1","application","application/Disaster_Management_System,_Earth_Observation"
+"mission/RISAT-2BR1","orbit_type","orbit/LEO_(Low_Earth_Orbit)"
+"mission/RISAT-2BR1","has_description","unknown"
+"mission/RISAT-2BR1","launched_on","2019-12-11"
+"mission/RISAT-2BR1","has_brochure","document/pdf/PSLV-C48RISAT-2BR1Mission.pdf"
+"mission/RISAT-2BR1","has_details_page","document/web/RISAT_2BR1.html"
+"mission/Cartosat-3","launched_by","vehicle/PSLV-C47"
+"mission/Cartosat-3","application","application/Earth_Observation"
+"mission/Cartosat-3","orbit_type","orbit/SSPO_(Sun_Synchronous_Polar_Orbit)"
+"mission/Cartosat-3","has_description","unknown"
+"mission/Cartosat-3","launched_on","2019-11-27"
+"mission/Cartosat-3","has_brochure","document/pdf/PSLV_C47LaunchKit_cdr.pdf"
+"mission/Cartosat-3","has_details_page","document/web/Cartosat_3.html"
+"mission/Chandrayaan2","launched_by","vehicle/GSLV-Mk
+__________________________________________III
+__________________________________________-_M1"
+"mission/Chandrayaan2","application","application/Planetary_Observation"
+"mission/Chandrayaan2","orbit_type","orbit/Lunar"
+"mission/Chandrayaan2","has_description","Jul 22,2019"
+"mission/Chandrayaan2","launched_on","2019-07-22"
+"mission/Chandrayaan2","has_details_page","document/web/Chandrayaan_2.html"
+"mission/RISAT-2B","launched_by","vehicle/PSLV-C46_Mission"
+"mission/RISAT-2B","application","application/Disaster_Management_System,_Earth_Observation"
+"mission/RISAT-2B","orbit_type","orbit/LEO_(Low_Earth_Orbit)"
+"mission/RISAT-2B","has_description","unknown"
+"mission/RISAT-2B","launched_on","2019-05-22"
+"mission/RISAT-2B","has_brochure","document/pdf/PSLV-C46RISAT2Blaunchkit.pdf"
+"mission/RISAT-2B","has_details_page","document/web/RISAT_2B.html"
+"mission/EMISAT","launched_by","vehicle/PSLV-C45"
+"mission/EMISAT","application","application/unknown"
+"mission/EMISAT","orbit_type","orbit/SSPO_(Sun_Synchronous_Polar_Orbit)"
+"mission/EMISAT","has_description","unknown"
+"mission/EMISAT","launched_on","2019-04-01"
+"mission/EMISAT","has_details_page","document/web/EMISAT.html"
+"mission/GSAT-31","launched_by","vehicle/Ariane-5_VA-247"
+"mission/GSAT-31","application","application/Communication"
+"mission/GSAT-31","orbit_type","orbit/GTO_(Geosynchronous_Transfer_Orbit)"
+"mission/GSAT-31","has_description","Back to ISRO Timeline
+Feb 06, 2019"
+"mission/GSAT-31","launched_on","2019-02-06"
+"mission/GSAT-31","has_brochure","document/pdf/GSAT-31Brochure.pdf"
+"mission/GSAT-31","has_details_page","document/web/GSAT31.html"
+"mission/Microsat-R","launched_by","vehicle/PSLV-C44"
+"mission/Microsat-R","application","application/unknown"
+"mission/Microsat-R","orbit_type","orbit/SSPO_(Sun_Synchronous_Polar_Orbit)"
+"mission/Microsat-R","has_description","Microsat-R, an imaging satellite was successfully injected into intended orbit of
+                                        274 km by PSLV-C44 on January 24, 2019"
+"mission/Microsat-R","launched_on","2019-01-24"
+"mission/Microsat-R","has_brochure","document/pdf/PSLV_C44_Broucher.pdf"
+"mission/Microsat-R","has_details_page","document/web/Microsat_R.html"
+"mission/GSAT-7A","launched_by","vehicle/GSLV-F11"
+"mission/GSAT-7A","application","application/Communication"
+"mission/GSAT-7A","orbit_type","orbit/unknown"
+"mission/GSAT-7A","has_description","Dec 19, 2018
+GSAT-7A is the 35th Indian Communication satellite built by ISRO. GSAT-7A
+                                        Spacecraft is configured on ISRO’s standard I-2000 Kg (I-2K) Bus. The
+                                        Satellite is built to provide communication capability to the users in
+                                        Ku-band over the Indian region."
+"mission/GSAT-7A","launched_on","2018-12-19"
+"mission/GSAT-7A","has_details_page","document/web/GSAT_7A.html"
+"mission/GSAT-11_Mission","launched_by","vehicle/Ariane-5_VA-246"
+"mission/GSAT-11_Mission","application","application/Communication"
+"mission/GSAT-11_Mission","orbit_type","orbit/GTO_(Geosynchronous_Transfer_Orbit)"
+"mission/GSAT-11_Mission","has_description","Back to ISRO Timeline
+Dec 05, 2018"
+"mission/GSAT-11_Mission","launched_on","2018-12-05"
+"mission/GSAT-11_Mission","has_brochure","document/pdf/GSAT-11%20Brochure.pdf"
+"mission/GSAT-11_Mission","has_details_page","document/web/GSAT_11.html"
+"mission/HysIS","launched_by","vehicle/PSLV-C43"
+"mission/HysIS","application","application/Earth_Observation"
+"mission/HysIS","orbit_type","orbit/SSPO_(Sun_Synchronous_Polar_Orbit)"
+"mission/HysIS","has_description","unknown"
+"mission/HysIS","launched_on","2018-11-29"
+"mission/HysIS","has_brochure","document/pdf/PSLV_C43_HysIS_Brochure.pdf"
+"mission/HysIS","has_details_page","document/web/HysIS.html"
+"mission/GSAT-29","launched_by","vehicle/GSLV_Mk
+__________________________________________III-D2"
+"mission/GSAT-29","application","application/Communication"
+"mission/GSAT-29","orbit_type","orbit/GTO_(Geosynchronous_Transfer_Orbit)"
+"mission/GSAT-29","has_description","Nov 14,2018"
+"mission/GSAT-29","launched_on","2018-11-14"
+"mission/GSAT-29","has_brochure","document/pdf/GSLV%20Mk%20III%20-%20D2%20.pdf"
+"mission/GSAT-29","has_details_page","document/web/GSAT_29.html"
+"mission/IRNSS-1I","launched_by","vehicle/PSLV-C41"
+"mission/IRNSS-1I","application","application/Navigation"
+"mission/IRNSS-1I","orbit_type","orbit/GSO_(Geosynchronous_Orbit)"
+"mission/IRNSS-1I","has_description","unknown"
+"mission/IRNSS-1I","launched_on","2018-04-12"
+"mission/IRNSS-1I","has_details_page","document/web/IRNSS_1I.html"
+"mission/GSAT-6A","launched_by","vehicle/GSLV-F08"
+"mission/GSAT-6A","application","application/Communication"
+"mission/GSAT-6A","orbit_type","orbit/GSO_(Geosynchronous_Orbit)"
+"mission/GSAT-6A","has_description","Mar 29, 2018"
+"mission/GSAT-6A","launched_on","2018-03-29"
+"mission/GSAT-6A","has_details_page","document/web/GSAT_6A.html"
+"mission/INS-1C","launched_by","vehicle/PSLV-C40"
+"mission/INS-1C","application","application/Experimental"
+"mission/INS-1C","orbit_type","orbit/SSPO_(Sun_Synchronous_Polar_Orbit)"
+"mission/INS-1C","has_description","unknown"
+"mission/INS-1C","launched_on","2018-01-12"
+"mission/INS-1C","has_details_page","document/web/INS_1C.html"
+"mission/Microsat","launched_by","vehicle/PSLV-C40"
+"mission/Microsat","application","application/Experimental"
+"mission/Microsat","orbit_type","orbit/SSPO_(Sun_Synchronous_Polar_Orbit)"
+"mission/Microsat","has_description","unknown"
+"mission/Microsat","launched_on","2018-01-12"
+"mission/Microsat","has_details_page","document/web/Microsat.html"
+"mission/Cartosat-2_Series
+_____________________________________________Satellite","launched_by","vehicle/PSLV-C40"
+"mission/Cartosat-2_Series
+_____________________________________________Satellite","application","application/Earth_Observation"
+"mission/Cartosat-2_Series
+_____________________________________________Satellite","orbit_type","orbit/SSPO_(Sun_Synchronous_Polar_Orbit)"
+"mission/Cartosat-2_Series
+_____________________________________________Satellite","has_description","unknown"
+"mission/Cartosat-2_Series
+_____________________________________________Satellite","launched_on","2018-01-12"
+"mission/Cartosat-2_Series
+_____________________________________________Satellite","has_details_page","document/web/CARTOSAT_2_PSLVC40.html"
+"mission/IRNSS-1H","launched_by","vehicle/PSLV-C39"
+"mission/IRNSS-1H","application","application/Navigation"
+"mission/IRNSS-1H","orbit_type","orbit/unknown"
+"mission/IRNSS-1H","has_description","unknown"
+"mission/IRNSS-1H","launched_on","2017-08-31"
+"mission/IRNSS-1H","has_details_page","document/web/IRNSS_1H.html"
+"mission/GSAT-1","launched_by","vehicle/Ariane-5_VA-238"
+"mission/GSAT-1","application","application/Communication"
+"mission/GSAT-1","orbit_type","orbit/GTO_(Geosynchronous_Transfer_Orbit)"
+"mission/GSAT-1","has_description","June 29, 2017Back to ISRO Timeline"
+"mission/GSAT-1","launched_on","2017-06-29"
+"mission/GSAT-1","has_details_page","document/web/GSAT_17.html"
+"mission/Cartosat-2_Series
+_____________________________________________Satellite","launched_by","vehicle/PSLV-C38"
+"mission/Cartosat-2_Series
+_____________________________________________Satellite","application","application/Earth_Observation"
+"mission/Cartosat-2_Series
+_____________________________________________Satellite","orbit_type","orbit/SSPO_(Sun_Synchronous_Polar_Orbit)"
+"mission/Cartosat-2_Series
+_____________________________________________Satellite","has_description","unknown"
+"mission/Cartosat-2_Series
+_____________________________________________Satellite","launched_on","2017-06-23"
+"mission/Cartosat-2_Series
+_____________________________________________Satellite","has_brochure","document/pdf/PSLV-C38.pdf"
+"mission/Cartosat-2_Series
+_____________________________________________Satellite","has_details_page","document/web/CARTOSAT_2_PSLVC38.html"
+"mission/GSAT-19","launched_by","vehicle/GSLV_Mk
+__________________________________________III-D1"
+"mission/GSAT-19","application","application/Communication"
+"mission/GSAT-19","orbit_type","orbit/GSO_(Geosynchronous_Orbit)"
+"mission/GSAT-19","has_description","Jun 05,2017"
+"mission/GSAT-19","launched_on","2017-06-05"
+"mission/GSAT-19","has_brochure","document/pdf/GSLV_Mark_III_D1.pdf"
+"mission/GSAT-19","has_details_page","document/web/GSAT_19.html"
+"mission/GSAT-9","launched_by","vehicle/GSLV-F09"
+"mission/GSAT-9","application","application/Communication"
+"mission/GSAT-9","orbit_type","orbit/GSO_(Geosynchronous_Orbit)"
+"mission/GSAT-9","has_description","May 05, 2017"
+"mission/GSAT-9","launched_on","2017-05-05"
+"mission/GSAT-9","has_details_page","document/web/GSAT_9.html"
+"mission/Cartosat_-2_Series_Satellite","launched_by","vehicle/PSLV-C37"
+"mission/Cartosat_-2_Series_Satellite","application","application/Earth_Observation"
+"mission/Cartosat_-2_Series_Satellite","orbit_type","orbit/SSPO_(Sun_Synchronous_Polar_Orbit)"
+"mission/Cartosat_-2_Series_Satellite","has_description","unknown"
+"mission/Cartosat_-2_Series_Satellite","launched_on","2017-02-15"
+"mission/Cartosat_-2_Series_Satellite","has_brochure","document/pdf/PSLV-C37.pdf"
+"mission/Cartosat_-2_Series_Satellite","has_details_page","document/web/CARTOSAT_2_PSLVC37.html"
+"mission/INS-1A","launched_by","vehicle/PSLV-C37"
+"mission/INS-1A","application","application/Experimental"
+"mission/INS-1A","orbit_type","orbit/SSPO_(Sun_Synchronous_Polar_Orbit)"
+"mission/INS-1A","has_description","unknown"
+"mission/INS-1A","launched_on","2017-02-15"
+"mission/INS-1A","has_brochure","document/pdf/PSLV-C37.pdf"
+"mission/INS-1A","has_details_page","document/web/INS_1A.html"
+"mission/INS-1B","launched_by","vehicle/PSLV-C37"
+"mission/INS-1B","application","application/Experimental"
+"mission/INS-1B","orbit_type","orbit/SSPO_(Sun_Synchronous_Polar_Orbit)"
+"mission/INS-1B","has_description","unknown"
+"mission/INS-1B","launched_on","2017-02-15"
+"mission/INS-1B","has_brochure","document/pdf/PSLV-C37.pdf"
+"mission/INS-1B","has_details_page","document/web/INS_1B.html"
+"mission/RESOURCESAT-2A","launched_by","vehicle/PSLV-C36"
+"mission/RESOURCESAT-2A","application","application/Earth_Observation"
+"mission/RESOURCESAT-2A","orbit_type","orbit/SSPO_(Sun_Synchronous_Polar_Orbit)"
+"mission/RESOURCESAT-2A","has_description","unknown"
+"mission/RESOURCESAT-2A","launched_on","2016-12-07"
+"mission/RESOURCESAT-2A","has_brochure","document/pdf/PSLV-C36.pdf"
+"mission/RESOURCESAT-2A","has_details_page","document/web/RESOURCESAT_2A.html"
+"mission/GSAT-18","launched_by","vehicle/Ariane-5_VA-231"
+"mission/GSAT-18","application","application/Communication"
+"mission/GSAT-18","orbit_type","orbit/GSO_(Geosynchronous_Orbit)"
+"mission/GSAT-18","has_description","October 06, 2016Back to ISRO Timeline"
+"mission/GSAT-18","launched_on","2016-10-06"
+"mission/GSAT-18","has_brochure","document/pdf/GSAT%2018%20-%20Brochure.pdf"
+"mission/GSAT-18","has_details_page","document/web/GSAT_18.html"
+"mission/SCATSAT-1","launched_by","vehicle/PSLV-C35"
+"mission/SCATSAT-1","application","application/Climate_&_Environment"
+"mission/SCATSAT-1","orbit_type","orbit/SSPO_(Sun_Synchronous_Polar_Orbit)"
+"mission/SCATSAT-1","has_description","unknown"
+"mission/SCATSAT-1","launched_on","2016-09-26"
+"mission/SCATSAT-1","has_details_page","document/web/SCATSAT_1.html"
+"mission/INSAT-3DR","launched_by","vehicle/GSLV-F05"
+"mission/INSAT-3DR","application","application/Climate_&_Environment,_Disaster_Management_System"
+"mission/INSAT-3DR","orbit_type","orbit/GSO_(Geosynchronous_Orbit)"
+"mission/INSAT-3DR","has_description","Sep 08, 2016"
+"mission/INSAT-3DR","launched_on","2016-09-08"
+"mission/INSAT-3DR","has_details_page","document/web/INSAT_3DR.html"
+"mission/CARTOSAT-2_Series
+_____________________________________________Satellite","launched_by","vehicle/PSLV-C34"
+"mission/CARTOSAT-2_Series
+_____________________________________________Satellite","application","application/Earth_Observation"
+"mission/CARTOSAT-2_Series
+_____________________________________________Satellite","orbit_type","orbit/SSPO_(Sun_Synchronous_Polar_Orbit)"
+"mission/CARTOSAT-2_Series
+_____________________________________________Satellite","has_description","unknown"
+"mission/CARTOSAT-2_Series
+_____________________________________________Satellite","launched_on","2016-06-22"
+"mission/CARTOSAT-2_Series
+_____________________________________________Satellite","has_details_page","document/web/CARTOSAT_2_PSLVC34.html"
+"mission/IRNSS-1G","launched_by","vehicle/PSLV-C33"
+"mission/IRNSS-1G","application","application/Navigation"
+"mission/IRNSS-1G","orbit_type","orbit/GEO"
+"mission/IRNSS-1G","has_description","This is the thirty-fourth consecutively successful
+                                        mission of PSLV, repeatedly proving its reliability and versatility."
+"mission/IRNSS-1G","launched_on","2016-04-28"
+"mission/IRNSS-1G","has_brochure","document/pdf/publication_pslv33.pdf"
+"mission/IRNSS-1G","has_details_page","document/web/IRNSS_1G.html"
+"mission/IRNSS-1F","launched_by","vehicle/PSLV-C32"
+"mission/IRNSS-1F","application","application/Navigation"
+"mission/IRNSS-1F","orbit_type","orbit/GEO"
+"mission/IRNSS-1F","has_description","IRNSS-1F is the sixth navigation satellite of the seven satellites constituting
+                                        the Indian Regional Navigation Satellite System (IRNSS) space segment. Its
+                                        predecessors, IRNSS-1A, 1B, 1C, 1D and 1E were successfully launched by
+                                        PSLV-C22, PSLV-C24, PSLV-C26, PSLV-C27 and PSLV-C31 in July 2013, April 2014,
+                                        October 2014, March 2015 and January 2016 respectively. All the five satellites
+                                        are functioning satisfactorily from their designated orbital positions.
+IRNSS-1F has a lift-off mass of 1425 kg. The configuration of IRNSS-1F is similar
+                                    to that of IRNSS-1A, 1B, 1C, 1D and 1E. The two solar arrays of IRNSS-1F
+                                    consisting of Ultra Triple Junction solar cells generate about 1660 Watts of
+                                    electrical power. Sun and Star sensors as well as gyroscopes provide orientation
+                                    reference for the satellite. Special thermal control schemes have been designed
+                                    and implemented for some of the critical elements such as atomic clocks. The
+                                    Attitude and Orbit Control System (AOCS) of IRNSS-1F maintains the satellite's
+                                    orientation with the help of reaction wheels, magnetic torques and thrusters.
+                                    Its propulsion system consists of a Liquid Apogee Motor (LAM) and thrusters.
+IRNSS -1F carries two types of payloads – navigation payload and ranging payload.
+                                    The navigation payload of IRNSS-1F transmits navigation service signals to the
+                                    users. This payload is operating in L5-band and S-band. A highly accurate
+                                    Rubidium atomic clock is part of the navigation payload of the satellite. The
+                                    ranging payload of IRNSS-1F consists of a C-band transponder, which facilitates
+                                    accurate determination of the range of the satellite. IRNSS-1F also carries
+                                    Corner Cube Retro Reflectors for laser ranging.
+IRNSS-1F was launched by PSLV-C32 into a sub Geosynchronous Transfer Orbit (sub
+                                    GTO) on March 10, 2016 at 16:01 hrs (IST) from Satish Dhawan Space Centre (SDSC)
+                                    SHAR, Sriharikota."
+"mission/IRNSS-1F","launched_on","2016-03-10"
+"mission/IRNSS-1F","has_brochure","document/pdf/publication_pslv32.pdf"
+"mission/IRNSS-1F","has_details_page","document/web/IRNSS_1F.html"
+"mission/IRNSS-1E","launched_by","vehicle/PSLV-C31"
+"mission/IRNSS-1E","application","application/Navigation"
+"mission/IRNSS-1E","orbit_type","orbit/GSO_(Geosynchronous_Orbit)"
+"mission/IRNSS-1E","has_description","unknown"
+"mission/IRNSS-1E","launched_on","2016-01-20"
+"mission/IRNSS-1E","has_brochure","document/pdf/publication_PSLV31.pdf"
+"mission/IRNSS-1E","has_details_page","document/web/IRNSS_1E.html"
+"mission/GSAT-15","launched_by","vehicle/Ariane-5_VA-227"
+"mission/GSAT-15","application","application/Communication,_Navigation"
+"mission/GSAT-15","orbit_type","orbit/GEO"
+"mission/GSAT-15","has_description","Jul 10, 2015Back to ISRO Timeline"
+"mission/GSAT-15","launched_on","2015-11-11"
+"mission/GSAT-15","has_details_page","document/web/GSAT_15.html"
+"mission/Astrosat","launched_by","vehicle/PSLV-C30"
+"mission/Astrosat","application","application/Space_Science"
+"mission/Astrosat","orbit_type","orbit/Polar"
+"mission/Astrosat","has_description","AstroSat is India’s first dedicated Space Astronomy Observatory launched into a 650-km, 6° inclination orbit on September 28, 2015, with a lift-off mass of 1515 kg, by PSLV-C30 (XL) rocket from Satish Dhawan Space Centre Sriharikota. AstroSat carries a total of five scientific payloads enabling imaging, studying temporal and spectral properties of galactic and extra- galactic cosmic sources in a wide range of wavelengths on a common platform.
+The unique feature of this observatory is its capability for carrying out broad band simultaneous multi-wavelength observation going from far ultra violet to gamma rays. UVIT has the highest angular resolution of 1.5 arc sec which is 3 times better than the next best UV telescope (GALEX-Galaxy evolution explorer) operational today. LAXPC has the highest collecting area in comparison to any other X-ray detector till today. CZTI possesses a unique capability of measuring X-ray polarization and also acts as an open detector beyond 100 keV.
+ISRO enabled Indian academic institutions Tata Institute of Fundamental Research (TIFR) Mumbai, Indian Institute of Astrophysics (IIA) Bangalore, Inter University Centre for Astronomy &Astrophysics (IUCAA) Pune and Physical research laboratory (PRL) Ahmedabad"
+"mission/Astrosat","launched_on","2015-09-28"
+"mission/Astrosat","has_details_page","document/web/Astrosat_Spacecraft.html"
+"mission/GSAT-6","launched_by","vehicle/GSLV-D6"
+"mission/GSAT-6","application","application/Communication"
+"mission/GSAT-6","orbit_type","orbit/GTO_(Geosynchronous_Transfer_Orbit)"
+"mission/GSAT-6","has_description","unknown"
+"mission/GSAT-6","launched_on","2015-08-27"
+"mission/GSAT-6","has_brochure","document/pdf/publication_gslvd6.pdf"
+"mission/GSAT-6","has_details_page","document/web/GSAT_6.html"
+"mission/IRNSS-1D","launched_by","vehicle/PSLV-C27"
+"mission/IRNSS-1D","application","application/Navigation"
+"mission/IRNSS-1D","orbit_type","orbit/GSO_(Geosynchronous_Orbit)"
+"mission/IRNSS-1D","has_description","unknown"
+"mission/IRNSS-1D","launched_on","2015-03-28"
+"mission/IRNSS-1D","has_details_page","document/web/IRNSS_1D.html"
+"mission/Crew_module_Atmospheric_Re-entry
+_____________________________________________Experiment_(CARE)","launched_by","vehicle/LVM-3"
+"mission/Crew_module_Atmospheric_Re-entry
+_____________________________________________Experiment_(CARE)","application","application/Experimental"
+"mission/Crew_module_Atmospheric_Re-entry
+_____________________________________________Experiment_(CARE)","orbit_type","orbit/unknown"
+"mission/Crew_module_Atmospheric_Re-entry
+_____________________________________________Experiment_(CARE)","has_description","Dec 18,2014"
+"mission/Crew_module_Atmospheric_Re-entry
+_____________________________________________Experiment_(CARE)","launched_on","2014-12-18"
+"mission/Crew_module_Atmospheric_Re-entry
+_____________________________________________Experiment_(CARE)","has_brochure","document/pdf/LVM3-brochure.pdf"
+"mission/Crew_module_Atmospheric_Re-entry
+_____________________________________________Experiment_(CARE)","has_details_page","document/web/CARE.html"
+"mission/GSAT-16","launched_by","vehicle/Ariane-5_VA-221"
+"mission/GSAT-16","application","application/Communication"
+"mission/GSAT-16","orbit_type","orbit/GSO_(Geosynchronous_Orbit)"
+"mission/GSAT-16","has_description","Apr 04, 2014Back to ISRO Timeline"
+"mission/GSAT-16","launched_on","2014-12-07"
+"mission/GSAT-16","has_details_page","document/web/GSAT_16.html"
+"mission/IRNSS-1C","launched_by","vehicle/PSLV-C26"
+"mission/IRNSS-1C","application","application/Navigation"
+"mission/IRNSS-1C","orbit_type","orbit/GEO"
+"mission/IRNSS-1C","has_description","unknown"
+"mission/IRNSS-1C","launched_on","2014-10-16"
+"mission/IRNSS-1C","has_details_page","document/web/IRNSS_1C.html"
+"mission/IRNSS-1B","launched_by","vehicle/PSLV-C24"
+"mission/IRNSS-1B","application","application/Navigation"
+"mission/IRNSS-1B","orbit_type","orbit/GSO_(Geosynchronous_Orbit)"
+"mission/IRNSS-1B","has_description","unknown"
+"mission/IRNSS-1B","launched_on","2014-04-04"
+"mission/IRNSS-1B","has_details_page","document/web/IRNSS_1B.html"
+"mission/GSAT-14","launched_by","vehicle/GSLV-D5"
+"mission/GSAT-14","application","application/Communication"
+"mission/GSAT-14","orbit_type","orbit/GSO_(Geosynchronous_Orbit)"
+"mission/GSAT-14","has_description","Jan 05, 2014"
+"mission/GSAT-14","launched_on","2014-01-05"
+"mission/GSAT-14","has_details_page","document/web/GSAT_14.html"
+"mission/Mars_Orbiter_Mission
+_____________________________________________Spacecraft","launched_by","vehicle/PSLV-C25"
+"mission/Mars_Orbiter_Mission
+_____________________________________________Spacecraft","application","application/Planetary_Observation"
+"mission/Mars_Orbiter_Mission
+_____________________________________________Spacecraft","orbit_type","orbit/Martian"
+"mission/Mars_Orbiter_Mission
+_____________________________________________Spacecraft","has_description","Mars Orbiter Mission (MOM), India's first interplanetary mission to planet Mars was launchedonboard PSLV-C25 on November 05, 2013. ISRO has become the fourth space agency to successfully send a spacecraft to Mars orbit.Though the designed mission life is 6 months, MOM completed 7 years in its orbit on Sept 24, 2021.
+The objectives of this mission are primarily technological and include design, realisation and launch of a Mars Orbiter spacecraft capable of operating with sufficient autonomy during the journey phase; Mars orbit insertion / capture and in-orbit phase around Mars.   MOM carries five scientific payloads to study the Martian surface features, morphology, mineralogy and Martian atmosphere.
+Mars continues to be an object of keen interest to scientists in the context of planetary evolution and extra-terrestrial life. Based on our understanding of Mars, which was thought to be probably a warm and wet planet earlier, is now seen to be dry with a thin atmosphere. How this evolution has taken place is still a topic of research. In this backdrop, the Indian Mars Orbiter Mission carried the following five scientific payloads:
+
+
+
+The main objective of the Mars Colour camera therefore is:
+The salient features of this instrument are given below: -
+
+
+The Primary science objective of this payload is to detect and measure methane concentration in Martian atmosphere (if it does exist) under clear sky conditions.Other studies which are possible are:
+The instrument features are given below: -
+
+
+This spectrometer operates in the thermal infrared (TIR) region (7 micron to 13 micron). TIS has been configured with an un-cooled micro-bolometer array that saves significantly in terms of weight and power when compared to a cooled IR detector. This payload is developed by Space Applications Centre, Ahmedabad.
+The instrument features are:
+
+
+MENCA, a quadrupole mass spectrometer, consists of a filament, detectors and associated electronics system. The detectors being used in MENCA are Channel Electron Multiplier (CEM) and Faraday Cup (FC). A suitable combination of Radio Frequency and DC voltages are applied to the alternate pairs of quadrupole rods to accomplish the mass separation and thereby the determination of partial pressure of species. Also, MENCA has an in-built pressure gauge for the measurement of total pressure. In addition to acquiring the mass spectra in a specified mass range (which can be varied), the instrument has a provision to study the time-evolution of a set of selectable species in the trend mode of operation. The dynamic range of the instrument is in the order of 1010.
+
+
+
+Scientific analysis of the data being received from the Mars Orbiter spacecraft is in progress. Scientific Data archived at ISSDC is made available to user communities."
+"mission/Mars_Orbiter_Mission
+_____________________________________________Spacecraft","launched_on","2013-11-05"
+"mission/Mars_Orbiter_Mission
+_____________________________________________Spacecraft","has_details_page","document/web/MarsOrbiterMissionSpacecraft.html"
+"mission/GSAT-7","launched_by","vehicle/Ariane-5_VA-215"
+"mission/GSAT-7","application","application/Communication"
+"mission/GSAT-7","orbit_type","orbit/GSO_(Geosynchronous_Orbit)"
+"mission/GSAT-7","has_description","unknown"
+"mission/GSAT-7","launched_on","2013-08-30"
+"mission/GSAT-7","has_details_page","document/web/GSAT_7.html"
+"mission/INSAT-3D","launched_by","vehicle/Ariane-5_VA-214"
+"mission/INSAT-3D","application","application/Climate_&_Environment,_Disaster_Management_System"
+"mission/INSAT-3D","orbit_type","orbit/GSO_(Geosynchronous_Orbit)"
+"mission/INSAT-3D","has_description","Back to ISRO Timeline"
+"mission/INSAT-3D","launched_on","2013-07-26"
+"mission/INSAT-3D","has_details_page","document/web/INSAT_3D.html"
+"mission/IRNSS-1A","launched_by","vehicle/PSLV-C22"
+"mission/IRNSS-1A","application","application/Navigation"
+"mission/IRNSS-1A","orbit_type","orbit/GSO_(Geosynchronous_Orbit)"
+"mission/IRNSS-1A","has_description","unknown"
+"mission/IRNSS-1A","launched_on","2013-07-01"
+"mission/IRNSS-1A","has_details_page","document/web/IRNSS_1A.html"
+"mission/SARAL","launched_by","vehicle/PSLV-C20"
+"mission/SARAL","application","application/Climate_&_Environment,_Earth_Observation"
+"mission/SARAL","orbit_type","orbit/SSPO_(Sun_Synchronous_Polar_Orbit)"
+"mission/SARAL","has_description","unknown"
+"mission/SARAL","launched_on","2013-02-25"
+"mission/SARAL","has_brochure","document/pdf/publication_PSLVC20.pdf"
+"mission/SARAL","has_details_page","document/web/SARAL.html"
+"mission/GSAT-10","launched_by","vehicle/Ariane-5_VA-209"
+"mission/GSAT-10","application","application/Communication,_Navigation"
+"mission/GSAT-10","orbit_type","orbit/GEO"
+"mission/GSAT-10","has_description","Back to ISRO Timeline"
+"mission/GSAT-10","launched_on","2012-09-29"
+"mission/GSAT-10","has_details_page","document/web/GSAT_10.html"
+"mission/RISAT-1","launched_by","vehicle/PSLV-C19"
+"mission/RISAT-1","application","application/Earth_Observation"
+"mission/RISAT-1","orbit_type","orbit/SSPO_(Sun_Synchronous_Polar_Orbit)"
+"mission/RISAT-1","has_description","unknown"
+"mission/RISAT-1","launched_on","2012-04-26"
+"mission/RISAT-1","has_brochure","document/pdf/publication_PSLVC19.pdf"
+"mission/RISAT-1","has_details_page","document/web/RISAT_1.html"
+"mission/Megha-Tropiques","launched_by","vehicle/PSLV-C18"
+"mission/Megha-Tropiques","application","application/Climate_&_Environment,_Earth_Observation"
+"mission/Megha-Tropiques","orbit_type","orbit/SSPO_(Sun_Synchronous_Polar_Orbit)"
+"mission/Megha-Tropiques","has_description","unknown"
+"mission/Megha-Tropiques","launched_on","2011-10-12"
+"mission/Megha-Tropiques","has_brochure","document/pdf/publication.pdf"
+"mission/Megha-Tropiques","has_details_page","document/web/Megha_Tropiques.html"
+"mission/GSAT-12","launched_by","vehicle/PSLV-C17"
+"mission/GSAT-12","application","application/Communication"
+"mission/GSAT-12","orbit_type","orbit/GSO_(Geosynchronous_Orbit)"
+"mission/GSAT-12","has_description","unknown"
+"mission/GSAT-12","launched_on","2011-07-15"
+"mission/GSAT-12","has_brochure","document/pdf/publication_pslvc17.pdf"
+"mission/GSAT-12","has_details_page","document/web/GSAT_12.html"
+"mission/GSAT-8","launched_by","vehicle/Ariane-5_VA-202"
+"mission/GSAT-8","application","application/Communication,_Navigation"
+"mission/GSAT-8","orbit_type","orbit/GEO"
+"mission/GSAT-8","has_description","Back to ISRO Timeline"
+"mission/GSAT-8","launched_on","2011-05-21"
+"mission/GSAT-8","has_details_page","document/web/GSAT_8.html"
+"mission/RESOURCESAT-2","launched_by","vehicle/PSLV-C16"
+"mission/RESOURCESAT-2","application","application/Earth_Observation"
+"mission/RESOURCESAT-2","orbit_type","orbit/SSPO_(Sun_Synchronous_Polar_Orbit)"
+"mission/RESOURCESAT-2","has_description","unknown"
+"mission/RESOURCESAT-2","launched_on","2011-04-20"
+"mission/RESOURCESAT-2","has_brochure","document/pdf/publication_pslvc16.pdf"
+"mission/RESOURCESAT-2","has_details_page","document/web/RESOURCESAT_2.html"
+"mission/YOUTHSAT","launched_by","vehicle/PSLV-C16"
+"mission/YOUTHSAT","application","application/Student_Satellite"
+"mission/YOUTHSAT","orbit_type","orbit/SSPO_(Sun_Synchronous_Polar_Orbit)"
+"mission/YOUTHSAT","has_description","unknown"
+"mission/YOUTHSAT","launched_on","2011-04-20"
+"mission/YOUTHSAT","has_brochure","document/pdf/publication_pslvc16.pdf"
+"mission/YOUTHSAT","has_details_page","document/web/YOUTHSAT.html"
+"mission/GSAT-5P","launched_by","vehicle/GSLV-F06"
+"mission/GSAT-5P","application","application/Communication"
+"mission/GSAT-5P","orbit_type","orbit/GSO_(Geosynchronous_Orbit)"
+"mission/GSAT-5P","has_description","Dec 25, 2010"
+"mission/GSAT-5P","launched_on","2010-12-25"
+"mission/GSAT-5P","has_brochure","document/pdf/publication_gslvf06.pdf"
+"mission/GSAT-5P","has_details_page","document/web/GSAT_5P.html"
+"mission/CARTOSAT-2B","launched_by","vehicle/PSLV-C15"
+"mission/CARTOSAT-2B","application","application/Earth_Observation"
+"mission/CARTOSAT-2B","orbit_type","orbit/SSPO_(Sun_Synchronous_Polar_Orbit)"
+"mission/CARTOSAT-2B","has_description","unknown"
+"mission/CARTOSAT-2B","launched_on","2010-07-12"
+"mission/CARTOSAT-2B","has_brochure","document/pdf/pslvc15_brochr.pdf"
+"mission/CARTOSAT-2B","has_details_page","document/web/CARTOSAT_2B.html"
+"mission/GSAT-4","launched_by","vehicle/GSLV-D3"
+"mission/GSAT-4","application","application/Communication"
+"mission/GSAT-4","orbit_type","orbit/GSO_(Geosynchronous_Orbit)"
+"mission/GSAT-4","has_description","Apr 15, 2010"
+"mission/GSAT-4","launched_on","2010-04-15"
+"mission/GSAT-4","has_details_page","document/web/GSAT_4.html"
+"mission/Oceansat-2","launched_by","vehicle/PSLV-C14"
+"mission/Oceansat-2","application","application/Climate_&_Environment,_Earth_Observation"
+"mission/Oceansat-2","orbit_type","orbit/SSPO_(Sun_Synchronous_Polar_Orbit)"
+"mission/Oceansat-2","has_description","unknown"
+"mission/Oceansat-2","launched_on","2009-09-23"
+"mission/Oceansat-2","has_brochure","document/pdf/pslvc14_brochr.pdf"
+"mission/Oceansat-2","has_details_page","document/web/Oceansat_2.html"
+"mission/RISAT-2","launched_by","vehicle/PSLV-C12"
+"mission/RISAT-2","application","application/Earth_Observation"
+"mission/RISAT-2","orbit_type","orbit/SSPO_(Sun_Synchronous_Polar_Orbit)"
+"mission/RISAT-2","has_description","unknown"
+"mission/RISAT-2","launched_on","2009-04-20"
+"mission/RISAT-2","has_details_page","document/web/RISAT_2.html"
+"mission/Chandrayaan-1","launched_by","vehicle/PSLV-C11"
+"mission/Chandrayaan-1","application","application/Planetary_Observation"
+"mission/Chandrayaan-1","orbit_type","orbit/Lunar"
+"mission/Chandrayaan-1","has_description","unknown"
+"mission/Chandrayaan-1","launched_on","2008-10-22"
+"mission/Chandrayaan-1","has_brochure","document/pdf/PSLV_C11_PUBLICATION.pdf"
+"mission/Chandrayaan-1","has_details_page","document/web/Chandrayaan_1.html"
+"mission/IMS-1","launched_by","vehicle/PSLV-C9"
+"mission/IMS-1","application","application/Earth_Observation"
+"mission/IMS-1","orbit_type","orbit/SSPO_(Sun_Synchronous_Polar_Orbit)"
+"mission/IMS-1","has_description","unknown"
+"mission/IMS-1","launched_on","2008-04-28"
+"mission/IMS-1","has_brochure","document/pdf/CARTOSAT_2A_PUBLICATION.pdf"
+"mission/IMS-1","has_details_page","document/web/IMS_1.html"
+"mission/CARTOSAT_–
+_____________________________________________2A","launched_by","vehicle/PSLV-C9"
+"mission/CARTOSAT_–
+_____________________________________________2A","application","application/Earth_Observation"
+"mission/CARTOSAT_–
+_____________________________________________2A","orbit_type","orbit/SSPO_(Sun_Synchronous_Polar_Orbit)"
+"mission/CARTOSAT_–
+_____________________________________________2A","has_description","unknown"
+"mission/CARTOSAT_–
+_____________________________________________2A","launched_on","2008-04-28"
+"mission/CARTOSAT_–
+_____________________________________________2A","has_brochure","document/pdf/CARTOSAT_2A_PUBLICATION.pdf"
+"mission/CARTOSAT_–
+_____________________________________________2A","has_details_page","document/web/CARTOSAT_2A.html"
+"mission/INSAT-4CR","launched_by","vehicle/GSLV-F04"
+"mission/INSAT-4CR","application","application/Communication"
+"mission/INSAT-4CR","orbit_type","orbit/GSO_(Geosynchronous_Orbit)"
+"mission/INSAT-4CR","has_description","Sep 02, 2007"
+"mission/INSAT-4CR","launched_on","2007-09-02"
+"mission/INSAT-4CR","has_brochure","document/pdf/INSAT_4CR_PUBLICATION.pdf"
+"mission/INSAT-4CR","has_details_page","document/web/INSAT_4CR.html"
+"mission/INSAT-4B","launched_by","vehicle/Ariane5"
+"mission/INSAT-4B","application","application/Communication"
+"mission/INSAT-4B","orbit_type","orbit/GSO_(Geosynchronous_Orbit)"
+"mission/INSAT-4B","has_description","Back to ISRO Timeline"
+"mission/INSAT-4B","launched_on","2007-03-12"
+"mission/INSAT-4B","has_details_page","document/web/INSAT_4B.html"
+"mission/CARTOSAT-2","launched_by","vehicle/PSLV-C7"
+"mission/CARTOSAT-2","application","application/Earth_Observation"
+"mission/CARTOSAT-2","orbit_type","orbit/SSPO_(Sun_Synchronous_Polar_Orbit)"
+"mission/CARTOSAT-2","has_description","unknown"
+"mission/CARTOSAT-2","launched_on","2007-01-10"
+"mission/CARTOSAT-2","has_brochure","document/pdf/publication.pdf"
+"mission/CARTOSAT-2","has_details_page","document/web/CARTOSAT_2.html"
+"mission/SRE-1","launched_by","vehicle/PSLV-C7"
+"mission/SRE-1","application","application/Experimental"
+"mission/SRE-1","orbit_type","orbit/SSPO_(Sun_Synchronous_Polar_Orbit)"
+"mission/SRE-1","has_description","unknown"
+"mission/SRE-1","launched_on","2007-01-10"
+"mission/SRE-1","has_brochure","document/pdf/publication.pdf"
+"mission/SRE-1","has_details_page","document/web/SRE_1.html"
+"mission/INSAT-4C","launched_by","vehicle/GSLV-F02"
+"mission/INSAT-4C","application","application/Communication"
+"mission/INSAT-4C","orbit_type","orbit/GSO_(Geosynchronous_Orbit)"
+"mission/INSAT-4C","has_description","Jul 10, 2006"
+"mission/INSAT-4C","launched_on","2006-07-10"
+"mission/INSAT-4C","has_brochure","document/pdf/GSLV-F02.pdf"
+"mission/INSAT-4C","has_details_page","document/web/INSAT_4C.html"
+"mission/INSAT-4A","launched_by","vehicle/Ariane5-V169"
+"mission/INSAT-4A","application","application/Communication"
+"mission/INSAT-4A","orbit_type","orbit/GSO_(Geosynchronous_Orbit)"
+"mission/INSAT-4A","has_description","Back to ISRO Timeline"
+"mission/INSAT-4A","launched_on","2005-12-22"
+"mission/INSAT-4A","has_details_page","document/web/INSAT_4A.html"
+"mission/CARTOSAT-1","launched_by","vehicle/PSLV-C6"
+"mission/CARTOSAT-1","application","application/Earth_Observation"
+"mission/CARTOSAT-1","orbit_type","orbit/SSPO_(Sun_Synchronous_Polar_Orbit)"
+"mission/CARTOSAT-1","has_description","unknown"
+"mission/CARTOSAT-1","launched_on","2005-05-05"
+"mission/CARTOSAT-1","has_brochure","document/pdf/publication.pdf"
+"mission/CARTOSAT-1","has_details_page","document/web/CARTOSAT_1.html"
+"mission/HAMSAT","launched_by","vehicle/PSLV-C6"
+"mission/HAMSAT","application","application/Communication"
+"mission/HAMSAT","orbit_type","orbit/SSPO_(Sun_Synchronous_Polar_Orbit)"
+"mission/HAMSAT","has_description","unknown"
+"mission/HAMSAT","launched_on","2005-05-05"
+"mission/HAMSAT","has_brochure","document/pdf/publication.pdf"
+"mission/HAMSAT","has_details_page","document/web/HAMSAT.html"
+"mission/EDUSAT","launched_by","vehicle/GSLV-F01"
+"mission/EDUSAT","application","application/Communication"
+"mission/EDUSAT","orbit_type","orbit/GSO_(Geosynchronous_Orbit)"
+"mission/EDUSAT","has_description","Sep 20, 2004"
+"mission/EDUSAT","launched_on","2004-09-20"
+"mission/EDUSAT","has_details_page","document/web/EDUSAT.html"
+"mission/IRS-P6_/_RESOURCESAT-1","launched_by","vehicle/PSLV-C5"
+"mission/IRS-P6_/_RESOURCESAT-1","application","application/Earth_Observation"
+"mission/IRS-P6_/_RESOURCESAT-1","orbit_type","orbit/SSPO_(Sun_Synchronous_Polar_Orbit)"
+"mission/IRS-P6_/_RESOURCESAT-1","has_description","unknown"
+"mission/IRS-P6_/_RESOURCESAT-1","launched_on","2003-10-17"
+"mission/IRS-P6_/_RESOURCESAT-1","has_details_page","document/web/RESOURCESAT_1.html"
+"mission/INSAT-3E","launched_by","vehicle/Ariane5-V162"
+"mission/INSAT-3E","application","application/Communication"
+"mission/INSAT-3E","orbit_type","orbit/GSO_(Geosynchronous_Orbit)"
+"mission/INSAT-3E","has_description","Back to ISRO Timeline"
+"mission/INSAT-3E","launched_on","2003-09-28"
+"mission/INSAT-3E","has_details_page","document/web/INSAT_3E.html"
+"mission/GSAT-2","launched_by","vehicle/GSLV-D2"
+"mission/GSAT-2","application","application/Communication"
+"mission/GSAT-2","orbit_type","orbit/GSO_(Geosynchronous_Orbit)"
+"mission/GSAT-2","has_description","May 08, 2003"
+"mission/GSAT-2","launched_on","2003-05-08"
+"mission/GSAT-2","has_details_page","document/web/GSAT_2.html"
+"mission/INSAT-3A","launched_by","vehicle/Ariane5-V160"
+"mission/INSAT-3A","application","application/Climate_&_Environment,_Communication"
+"mission/INSAT-3A","orbit_type","orbit/GSO_(Geosynchronous_Orbit)"
+"mission/INSAT-3A","has_description","Back to ISRO Timeline"
+"mission/INSAT-3A","launched_on","2003-04-10"
+"mission/INSAT-3A","has_details_page","document/web/INSAT_3A.html"
+"mission/KALPANA-1","launched_by","vehicle/PSLV-C4"
+"mission/KALPANA-1","application","application/Climate_&_Environment,_Communication"
+"mission/KALPANA-1","orbit_type","orbit/GSO_(Geosynchronous_Orbit)"
+"mission/KALPANA-1","has_description","unknown"
+"mission/KALPANA-1","launched_on","2002-09-12"
+"mission/KALPANA-1","has_details_page","document/web/KALPANA_1.html"
+"mission/INSAT-3C","launched_by","vehicle/Ariane5-V147"
+"mission/INSAT-3C","application","application/Climate_&_Environment,_Communication"
+"mission/INSAT-3C","orbit_type","orbit/GSO_(Geosynchronous_Orbit)"
+"mission/INSAT-3C","has_description","Back to ISRO Timeline"
+"mission/INSAT-3C","launched_on","2002-01-24"
+"mission/INSAT-3C","has_details_page","document/web/INSAT_3C.html"
+"mission/The_Technology_Experiment_Satellite
+_____________________________________________(TES)","launched_by","vehicle/PSLV-C3"
+"mission/The_Technology_Experiment_Satellite
+_____________________________________________(TES)","application","application/Earth_Observation"
+"mission/The_Technology_Experiment_Satellite
+_____________________________________________(TES)","orbit_type","orbit/SSPO_(Sun_Synchronous_Polar_Orbit)"
+"mission/The_Technology_Experiment_Satellite
+_____________________________________________(TES)","has_description","unknown"
+"mission/The_Technology_Experiment_Satellite
+_____________________________________________(TES)","launched_on","2001-10-22"
+"mission/The_Technology_Experiment_Satellite
+_____________________________________________(TES)","has_details_page","document/web/TES.html"
+"mission/GSAT-1","launched_by","vehicle/GSLV-D1"
+"mission/GSAT-1","application","application/Communication"
+"mission/GSAT-1","orbit_type","orbit/GSO_(Geosynchronous_Orbit)"
+"mission/GSAT-1","has_description","Apr 18, 2001"
+"mission/GSAT-1","launched_on","2001-04-18"
+"mission/GSAT-1","has_details_page","document/web/GSAT_1.html"
+"mission/INSAT-3B","launched_by","vehicle/Ariane-5G"
+"mission/INSAT-3B","application","application/Communication"
+"mission/INSAT-3B","orbit_type","orbit/GSO_(Geosynchronous_Orbit)"
+"mission/INSAT-3B","has_description","Back to ISRO
+                                        Timeline"
+"mission/INSAT-3B","launched_on","2000-03-22"
+"mission/INSAT-3B","has_details_page","document/web/INSAT_3B.html"
+"mission/Oceansat(IRS-P4)","launched_by","vehicle/PSLV-C2"
+"mission/Oceansat(IRS-P4)","application","application/Earth_Observation"
+"mission/Oceansat(IRS-P4)","orbit_type","orbit/SSPO_(Sun_Synchronous_Polar_Orbit)"
+"mission/Oceansat(IRS-P4)","has_description","unknown"
+"mission/Oceansat(IRS-P4)","launched_on","1999-05-26"
+"mission/Oceansat(IRS-P4)","has_details_page","document/web/Oceansat(IRS_P4).html"
+"mission/INSAT-2E","launched_by","vehicle/Ariane-42P_H10-3"
+"mission/INSAT-2E","application","application/Communication"
+"mission/INSAT-2E","orbit_type","orbit/GSO_(Geosynchronous_Orbit)"
+"mission/INSAT-2E","has_description","Back to ISRO Timeline"
+"mission/INSAT-2E","launched_on","1999-04-03"
+"mission/INSAT-2E","has_details_page","document/web/INSAT_2E.html"
+"mission/IRS-1D","launched_by","vehicle/PSLV-C1"
+"mission/IRS-1D","application","application/Earth_Observation"
+"mission/IRS-1D","orbit_type","orbit/SSPO_(Sun_Synchronous_Polar_Orbit)"
+"mission/IRS-1D","has_description","unknown"
+"mission/IRS-1D","launched_on","1997-09-29"
+"mission/IRS-1D","has_details_page","document/web/IRS_1D.html"
+"mission/INSAT-2D","launched_by","vehicle/Ariane-44L_H10-3"
+"mission/INSAT-2D","application","application/Communication"
+"mission/INSAT-2D","orbit_type","orbit/GSO_(Geosynchronous_Orbit)"
+"mission/INSAT-2D","has_description","Back to ISRO Timeline"
+"mission/INSAT-2D","launched_on","1997-06-04"
+"mission/INSAT-2D","has_details_page","document/web/INSAT_2D.html"
+"mission/IRS-P3","launched_by","vehicle/PSLV-D3"
+"mission/IRS-P3","application","application/Earth_Observation"
+"mission/IRS-P3","orbit_type","orbit/SSPO_(Sun_Synchronous_Polar_Orbit)"
+"mission/IRS-P3","has_description","unknown"
+"mission/IRS-P3","launched_on","1996-03-21"
+"mission/IRS-P3","has_details_page","document/web/IRS_P3.html"
+"mission/IRS-1C","launched_by","vehicle/Molniya"
+"mission/IRS-1C","application","application/Earth_Observation"
+"mission/IRS-1C","orbit_type","orbit/SSPO_(Sun_Synchronous_Polar_Orbit)"
+"mission/IRS-1C","has_description","unknown"
+"mission/IRS-1C","launched_on","1995-12-28"
+"mission/IRS-1C","has_details_page","document/web/IRS_1C.html"
+"mission/INSAT-2C","launched_by","vehicle/Ariane-44L_H10-3"
+"mission/INSAT-2C","application","application/Communication"
+"mission/INSAT-2C","orbit_type","orbit/GSO_(Geosynchronous_Orbit)"
+"mission/INSAT-2C","has_description","unknown"
+"mission/INSAT-2C","launched_on","1995-12-07"
+"mission/INSAT-2C","has_details_page","document/web/INSAT_2C.html"
+"mission/IRS-P2","launched_by","vehicle/PSLV-D2"
+"mission/IRS-P2","application","application/Earth_Observation"
+"mission/IRS-P2","orbit_type","orbit/SSPO_(Sun_Synchronous_Polar_Orbit)"
+"mission/IRS-P2","has_description","Back to ISRO Timeline
+Mission completed during 1997 after serving for 3 years."
+"mission/IRS-P2","launched_on","1994-10-15"
+"mission/IRS-P2","has_details_page","document/web/IRS_P2.html"
+"mission/SROSS-C2","launched_by","vehicle/ASLV-D4"
+"mission/SROSS-C2","application","application/Experimental"
+"mission/SROSS-C2","orbit_type","orbit/unknown"
+"mission/SROSS-C2","has_description","May 05,1994Back to ISRO Timeline"
+"mission/SROSS-C2","launched_on","1994-05-04"
+"mission/SROSS-C2","has_details_page","document/web/SROSS_C2.html"
+"mission/IRS-1E","launched_by","vehicle/PSLV-D1"
+"mission/IRS-1E","application","application/Earth_Observation"
+"mission/IRS-1E","orbit_type","orbit/LEO_(Low_Earth_Orbit)"
+"mission/IRS-1E","has_description","Apr 18, 2001Back to ISRO Timeline"
+"mission/IRS-1E","launched_on","1993-09-20"
+"mission/IRS-1E","has_details_page","document/web/IRS_1E.html"
+"mission/INSAT-2B","launched_by","vehicle/Ariane-44L_H10+"
+"mission/INSAT-2B","application","application/Communication"
+"mission/INSAT-2B","orbit_type","orbit/GSO_(Geosynchronous_Orbit)"
+"mission/INSAT-2B","has_description","Back to ISRO Timeline"
+"mission/INSAT-2B","launched_on","1993-07-23"
+"mission/INSAT-2B","has_details_page","document/web/INSAT_2B.html"
+"mission/INSAT-2A","launched_by","vehicle/Ariane-44L_H10"
+"mission/INSAT-2A","application","application/Communication"
+"mission/INSAT-2A","orbit_type","orbit/GSO_(Geosynchronous_Orbit)"
+"mission/INSAT-2A","has_description","Back to ISRO Timeline"
+"mission/INSAT-2A","launched_on","1992-07-10"
+"mission/INSAT-2A","has_details_page","document/web/INSAT_2A.html"
+"mission/SROSS-C","launched_by","vehicle/ASLV-D3"
+"mission/SROSS-C","application","application/Experimental"
+"mission/SROSS-C","orbit_type","orbit/unknown"
+"mission/SROSS-C","has_description","May 20,1992Back to ISRO Timeline"
+"mission/SROSS-C","launched_on","1992-05-20"
+"mission/SROSS-C","has_details_page","document/web/SROSS_C.html"
+"mission/IRS-1B","launched_by","vehicle/Vostok"
+"mission/IRS-1B","application","application/Earth_Observation"
+"mission/IRS-1B","orbit_type","orbit/SSPO_(Sun_Synchronous_Polar_Orbit)"
+"mission/IRS-1B","has_description","Back to ISRO
+                                            Timeline"
+"mission/IRS-1B","launched_on","1991-08-29"
+"mission/IRS-1B","has_details_page","document/web/IRS_1B.html"
+"mission/INSAT-1D","launched_by","vehicle/Delta_4925"
+"mission/INSAT-1D","application","application/Communication"
+"mission/INSAT-1D","orbit_type","orbit/GSO_(Geosynchronous_Orbit)"
+"mission/INSAT-1D","has_description","Back to ISRO Timeline"
+"mission/INSAT-1D","launched_on","1990-06-12"
+"mission/INSAT-1D","has_details_page","document/web/INSAT_1D.html"
+"mission/INSAT-1C","launched_by","vehicle/Ariane-3"
+"mission/INSAT-1C","application","application/Communication"
+"mission/INSAT-1C","orbit_type","orbit/GSO_(Geosynchronous_Orbit)"
+"mission/INSAT-1C","has_description","Back to ISRO Timeline"
+"mission/INSAT-1C","launched_on","1988-07-22"
+"mission/INSAT-1C","has_details_page","document/web/INSAT_1C.html"
+"mission/SROSS-2","launched_by","vehicle/ASLV-D2"
+"mission/SROSS-2","application","application/Earth_Observation,_Experimental"
+"mission/SROSS-2","orbit_type","orbit/unknown"
+"mission/SROSS-2","has_description","Jul 13,1988Back to ISRO Timeline"
+"mission/SROSS-2","launched_on","1988-07-13"
+"mission/SROSS-2","has_details_page","document/web/SROSS_2.html"
+"mission/IRS-1A","launched_by","vehicle/Vostok"
+"mission/IRS-1A","application","application/Earth_Observation"
+"mission/IRS-1A","orbit_type","orbit/SSPO_(Sun_Synchronous_Polar_Orbit)"
+"mission/IRS-1A","has_description","Back to ISRO Timeline"
+"mission/IRS-1A","launched_on","1988-03-17"
+"mission/IRS-1A","has_details_page","document/web/IRS_1A.html"
+"mission/SROSS-1","launched_by","vehicle/ASLV-D1"
+"mission/SROSS-1","application","application/Experimental"
+"mission/SROSS-1","orbit_type","orbit/unknown"
+"mission/SROSS-1","has_description","Mar 24,1987Back to ISRO Timeline"
+"mission/SROSS-1","launched_on","1987-03-24"
+"mission/SROSS-1","has_details_page","document/web/SROSS_1.html"
+"mission/INSAT-1B","launched_by","vehicle/Shuttle_[PAM-D]"
+"mission/INSAT-1B","application","application/Communication"
+"mission/INSAT-1B","orbit_type","orbit/GSO_(Geosynchronous_Orbit)"
+"mission/INSAT-1B","has_description","Back to ISRO Timeline"
+"mission/INSAT-1B","launched_on","1983-08-30"
+"mission/INSAT-1B","has_details_page","document/web/INSAT_1B.html"
+"mission/Rohini_Satellite_RS-D2","launched_by","vehicle/SLV-3"
+"mission/Rohini_Satellite_RS-D2","application","application/Earth_Observation"
+"mission/Rohini_Satellite_RS-D2","orbit_type","orbit/LEO_(Low_Earth_Orbit)"
+"mission/Rohini_Satellite_RS-D2","has_description","Apr 17,1983Back to ISRO Timeline"
+"mission/Rohini_Satellite_RS-D2","launched_on","1983-04-17"
+"mission/Rohini_Satellite_RS-D2","has_details_page","document/web/RohiniSatellite_RS_D2.html"
+"mission/INSAT-1A","launched_by","vehicle/Delta"
+"mission/INSAT-1A","application","application/Communication"
+"mission/INSAT-1A","orbit_type","orbit/GSO_(Geosynchronous_Orbit)"
+"mission/INSAT-1A","has_description","Back to ISRO Timeline"
+"mission/INSAT-1A","launched_on","1982-04-10"
+"mission/INSAT-1A","has_details_page","document/web/INSAT_1A.html"
+"mission/Bhaskara-II","launched_by","vehicle/C-1_Intercosmos"
+"mission/Bhaskara-II","application","application/Earth_Observation,_Experimental"
+"mission/Bhaskara-II","orbit_type","orbit/LEO_(Low_Earth_Orbit)"
+"mission/Bhaskara-II","has_description","Apr 17,1983Back to ISRO Timeline"
+"mission/Bhaskara-II","launched_on","1981-11-20"
+"mission/Bhaskara-II","has_details_page","document/web/Bhaskara_II.html"
+"mission/APPLE","launched_by","vehicle/Ariane_-1(V-3)"
+"mission/APPLE","application","application/Communication,_Experimental"
+"mission/APPLE","orbit_type","orbit/GSO_(Geosynchronous_Orbit)"
+"mission/APPLE","has_description","Back to ISRO Timeline"
+"mission/APPLE","launched_on","1981-06-19"
+"mission/APPLE","has_details_page","document/web/APPLE.html"
+"mission/Rohini_Satellite_RS-D1","launched_by","vehicle/SLV-3D1"
+"mission/Rohini_Satellite_RS-D1","application","application/Earth_Observation"
+"mission/Rohini_Satellite_RS-D1","orbit_type","orbit/LEO_(Low_Earth_Orbit)"
+"mission/Rohini_Satellite_RS-D1","has_description","May 31,1981Back to ISRO Timeline"
+"mission/Rohini_Satellite_RS-D1","launched_on","1981-05-31"
+"mission/Rohini_Satellite_RS-D1","has_details_page","document/web/RohiniSatellite_RS_D1.html"
+"mission/Rohini_Satellite_RS-1","launched_by","vehicle/SLV-3E2"
+"mission/Rohini_Satellite_RS-1","application","application/unknown"
+"mission/Rohini_Satellite_RS-1","orbit_type","orbit/unknown"
+"mission/Rohini_Satellite_RS-1","has_description","Jul 18,1980Back to ISRO
+                                            Timeline"
+"mission/Rohini_Satellite_RS-1","launched_on","1980-07-18"
+"mission/Rohini_Satellite_RS-1","has_details_page","document/web/RohiniSatellite_RS_1.html"
+"mission/Rohini_Technology_Payload
+_____________________________________________(RTP)","launched_by","vehicle/SLV-3E1"
+"mission/Rohini_Technology_Payload
+_____________________________________________(RTP)","application","application/unknown"
+"mission/Rohini_Technology_Payload
+_____________________________________________(RTP)","orbit_type","orbit/unknown"
+"mission/Rohini_Technology_Payload
+_____________________________________________(RTP)","has_description","Aug 10,1979"
+"mission/Rohini_Technology_Payload
+_____________________________________________(RTP)","launched_on","1979-08-10"
+"mission/Rohini_Technology_Payload
+_____________________________________________(RTP)","has_details_page","document/web/RohiniTechnologyPayload.html"
+"mission/Bhaskara-I","launched_by","vehicle/C-1Intercosmos"
+"mission/Bhaskara-I","application","application/Earth_Observation,_Experimental"
+"mission/Bhaskara-I","orbit_type","orbit/LEO_(Low_Earth_Orbit)"
+"mission/Bhaskara-I","has_description","Back to ISRO Timeline"
+"mission/Bhaskara-I","launched_on","1979-06-07"
+"mission/Bhaskara-I","has_details_page","document/web/Bhaskara_I.html"
+"mission/Aryabhata","launched_by","vehicle/C-1_Intercosmos"
+"mission/Aryabhata","application","application/Experimental"
+"mission/Aryabhata","orbit_type","orbit/unknown"
+"mission/Aryabhata","has_description","Back to ISRO Timeline"
+"mission/Aryabhata","launched_on","1975-04-19"
+"mission/Aryabhata","has_details_page","document/web/aryabhata_1.html"
